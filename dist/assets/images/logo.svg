@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title desc">
-  <title id="title">DEAL</title><desc id="desc">DEAL premium services logo</desc>
+  <title id="title">DEAL</title><desc id="desc">DEAL logotip</desc>
   <defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff985f"/><stop offset=".52" stop-color="#c96b38"/><stop offset="1" stop-color="#8e421f"/></linearGradient></defs>
   <g fill="none" stroke="url(#c)" stroke-width="2.4">
     <circle cx="47" cy="48" r="34"/><circle cx="47" cy="48" r="27" opacity=".32"/>

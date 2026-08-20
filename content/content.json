@@ -10,7 +10,19 @@
     "coverage": "Pula · Rijeka · Istra · Europa",
     "instagram": "#",
     "facebook": "#",
-    "analyticsId": ""
+    "analyticsId": "",
+    "locationLocalized": {
+      "hr": "Istra, Hrvatska",
+      "en": "Istria, Croatia",
+      "de": "Istrien, Kroatien",
+      "nl": "Istrië, Kroatië"
+    },
+    "coverageLocalized": {
+      "hr": "Pula · Rijeka · Istra · Europa",
+      "en": "Pula · Rijeka · Istria · Europe",
+      "de": "Pula · Rijeka · Istrien · Europa",
+      "nl": "Pula · Rijeka · Istrië · Europa"
+    }
   },
   "locales": {
     "hr": {
@@ -38,17 +50,17 @@
     "hr": {
       "nav": {
         "home": "Početna",
-        "taxi": "Taxi & Transfers",
-        "travel": "Travel",
-        "clean": "Clean",
+        "taxi": "Taxi i transferi",
+        "travel": "Putovanja",
+        "clean": "Čišćenje",
         "drivers": "Najam vozača",
         "fleet": "Vozni park",
         "about": "O nama",
         "contact": "Kontakt"
       },
-      "heroEyebrow": "DEAL · PREMIUM SERVICES",
+      "heroEyebrow": "DEAL · VRHUNSKE USLUGE",
       "heroTitle": "DEAL",
-      "heroSubtitle": "PREMIUM SERVICES. ONE DEAL.",
+      "heroSubtitle": "VRHUNSKE USLUGE. JEDAN DEAL.",
       "heroText": "Prijevoz, putovanja, profesionalno čišćenje i provjereni vozači — povezani standardom usluge na koji se možete osloniti.",
       "heroPrimary": "Istraži usluge",
       "heroSecondary": "Pošalji upit",
@@ -56,7 +68,7 @@
       "serviceIntroTitle": "Jedan potpis. Četiri načina da vam olakšamo dan.",
       "serviceIntroText": "DEAL okuplja usluge koje traže povjerenje, organizaciju i preciznost. Svaka cjelina ima svoj tim i fokus, a standard ostaje isti: jasna komunikacija, odgovornost i izvedba bez improvizacije.",
       "whyKicker": "ZAŠTO DEAL",
-      "whyTitle": "Premium nije detalj. To je način rada.",
+      "whyTitle": "Vrhunska usluga nije detalj. To je način rada.",
       "whyText": "Od prvog poziva do završene usluge, svaki korak vodimo organizirano i transparentno. Bez nepotrebne komplikacije, bez skrivenih očekivanja.",
       "whyItems": [
         [
@@ -92,7 +104,7 @@
       "ctaTitle": "Trebate prijevoz, putovanje, čišćenje ili vozača?",
       "ctaText": "Recite nam što vam treba. Vratit ćemo se s jasnim prijedlogom i sljedećim korakom.",
       "ctaButton": "Kontaktirajte nas",
-      "footerText": "Premium usluge prijevoza, putovanja, čišćenja i najma vozača. Jedan kontakt, jasan standard i organizacija od početka do kraja.",
+      "footerText": "Vrhunske usluge prijevoza, putovanja, čišćenja i najma vozača. Jedan kontakt, jasan standard i organizacija od početka do kraja.",
       "privacy": "Politika privatnosti",
       "cookies": "Kolačići",
       "rights": "Sva prava pridržana.",
@@ -121,7 +133,18 @@
       "cookieBannerText": "Koristimo nužne kolačiće za rad stranice, a analitičke samo uz vašu privolu.",
       "cookieAccept": "Prihvati sve",
       "cookieNecessary": "Samo nužni",
-      "cookieSettings": "Postavke"
+      "cookieSettings": "Postavke",
+      "introCaption": "Vrhunske usluge · Jedan DEAL",
+      "homeTitle": "Vrhunske usluge",
+      "scrollLabel": "Istražite",
+      "fleetBrandLabel": "DEAL VOZNI PARK",
+      "standardLabel": "DEAL NAČIN RADA",
+      "contactBrandLabel": "DEAL KONTAKT",
+      "premiumStandard": "Vrhunski standard",
+      "mainNavigation": "Glavna navigacija",
+      "languageSelector": "Odabir jezika",
+      "languageLabel": "Jezik",
+      "menuLabel": "Izbornik"
     },
     "en": {
       "nav": {
@@ -209,12 +232,23 @@
       "cookieBannerText": "We use essential cookies for the website to function and analytics only with your consent.",
       "cookieAccept": "Accept all",
       "cookieNecessary": "Necessary only",
-      "cookieSettings": "Settings"
+      "cookieSettings": "Settings",
+      "introCaption": "Premium services · One DEAL",
+      "homeTitle": "Premium Services",
+      "scrollLabel": "Explore",
+      "fleetBrandLabel": "DEAL FLEET",
+      "standardLabel": "DEAL STANDARD",
+      "contactBrandLabel": "DEAL CONTACT",
+      "premiumStandard": "Premium standard",
+      "mainNavigation": "Main navigation",
+      "languageSelector": "Language selector",
+      "languageLabel": "Language",
+      "menuLabel": "Menu"
     },
     "de": {
       "nav": {
         "home": "Startseite",
-        "taxi": "Taxi & Transfers",
+        "taxi": "Taxi & Transfer",
         "travel": "Reisen",
         "clean": "Reinigung",
         "drivers": "Fahrer mieten",
@@ -222,9 +256,9 @@
         "about": "Über uns",
         "contact": "Kontakt"
       },
-      "heroEyebrow": "DEAL · PREMIUM SERVICES",
+      "heroEyebrow": "DEAL · PREMIUM-DIENSTLEISTUNGEN",
       "heroTitle": "DEAL",
-      "heroSubtitle": "PREMIUM SERVICES. ONE DEAL.",
+      "heroSubtitle": "PREMIUM-DIENSTLEISTUNGEN. EIN DEAL.",
       "heroText": "Transfers, sorgfältig geplante Reisen, professionelle Reinigung und verlässliche Fahrer — verbunden durch einen Servicestandard, auf den Sie sich verlassen können.",
       "heroPrimary": "Leistungen entdecken",
       "heroSecondary": "Anfrage senden",
@@ -232,7 +266,7 @@
       "serviceIntroTitle": "Eine Handschrift. Vier Wege, Ihren Alltag leichter zu machen.",
       "serviceIntroText": "DEAL verbindet Leistungen, bei denen Vertrauen, Organisation und Präzision zählen. Jeder Bereich hat seinen Fokus; der Standard bleibt gleich: klare Kommunikation, Verantwortung und zuverlässige Umsetzung.",
       "whyKicker": "WARUM DEAL",
-      "whyTitle": "Premium ist kein Detail. Es ist unsere Arbeitsweise.",
+      "whyTitle": "Qualität ist kein Detail. Sie ist unsere Arbeitsweise.",
       "whyText": "Vom ersten Kontakt bis zur abgeschlossenen Leistung führen wir jeden Schritt strukturiert und transparent.",
       "whyItems": [
         [
@@ -268,7 +302,7 @@
       "ctaTitle": "Benötigen Sie Transfer, Reise, Reinigung oder einen Fahrer?",
       "ctaText": "Sagen Sie uns, was Sie brauchen. Sie erhalten einen klaren Vorschlag und den nächsten Schritt.",
       "ctaButton": "Kontakt aufnehmen",
-      "footerText": "Premium-Transfers, Reisen, Reinigung und Fahrervermietung. Ein Kontakt, ein klarer Standard, organisiert von Anfang bis Ende.",
+      "footerText": "Hochwertige Transfers, Reisen, Reinigung und Fahrervermietung. Ein Kontakt, ein klarer Standard, organisiert von Anfang bis Ende.",
       "privacy": "Datenschutz",
       "cookies": "Cookies",
       "rights": "Alle Rechte vorbehalten.",
@@ -297,12 +331,23 @@
       "cookieBannerText": "Wir verwenden notwendige Cookies für die Funktion der Website und Analyse nur mit Ihrer Einwilligung.",
       "cookieAccept": "Alle akzeptieren",
       "cookieNecessary": "Nur notwendige",
-      "cookieSettings": "Einstellungen"
+      "cookieSettings": "Einstellungen",
+      "introCaption": "Premium-Dienstleistungen · Ein DEAL",
+      "homeTitle": "Premium-Dienstleistungen",
+      "scrollLabel": "Entdecken",
+      "fleetBrandLabel": "DEAL FUHRPARK",
+      "standardLabel": "DEAL ANSPRUCH",
+      "contactBrandLabel": "DEAL KONTAKT",
+      "premiumStandard": "Premium-Standard",
+      "mainNavigation": "Hauptnavigation",
+      "languageSelector": "Sprachauswahl",
+      "languageLabel": "Sprache",
+      "menuLabel": "Menü"
     },
     "nl": {
       "nav": {
-        "home": "Home",
-        "taxi": "Taxi & Transfers",
+        "home": "Start",
+        "taxi": "Taxi en transfers",
         "travel": "Reizen",
         "clean": "Schoonmaak",
         "drivers": "Chauffeur huren",
@@ -310,9 +355,9 @@
         "about": "Over ons",
         "contact": "Contact"
       },
-      "heroEyebrow": "DEAL · PREMIUM SERVICES",
+      "heroEyebrow": "DEAL · HOOGWAARDIGE DIENSTEN",
       "heroTitle": "DEAL",
-      "heroSubtitle": "PREMIUM SERVICES. ONE DEAL.",
+      "heroSubtitle": "HOOGWAARDIGE DIENSTEN. ÉÉN DEAL.",
       "heroText": "Transfers, zorgvuldig samengestelde reizen, professionele schoonmaak en betrouwbare chauffeurs — verbonden door één servicenorm waarop u kunt rekenen.",
       "heroPrimary": "Ontdek diensten",
       "heroSecondary": "Stuur aanvraag",
@@ -320,7 +365,7 @@
       "serviceIntroTitle": "Eén handtekening. Vier manieren om uw dag eenvoudiger te maken.",
       "serviceIntroText": "DEAL bundelt diensten waar vertrouwen, organisatie en precisie essentieel zijn. Elke divisie heeft een eigen focus; de norm blijft gelijk: heldere communicatie, verantwoordelijkheid en uitvoering zonder improvisatie.",
       "whyKicker": "WAAROM DEAL",
-      "whyTitle": "Premium is geen detail. Het is onze manier van werken.",
+      "whyTitle": "Kwaliteit is geen detail. Het is onze manier van werken.",
       "whyText": "Van het eerste contact tot de afgeronde dienst wordt elke stap gestructureerd en transparant uitgevoerd.",
       "whyItems": [
         [
@@ -356,7 +401,7 @@
       "ctaTitle": "Transport, reis, schoonmaak of chauffeur nodig?",
       "ctaText": "Vertel ons wat u nodig hebt. U ontvangt een duidelijk voorstel en de volgende stap.",
       "ctaButton": "Neem contact op",
-      "footerText": "Premium transport, reizen, schoonmaak en chauffeurhuur. Eén contact, één duidelijke norm, georganiseerd van begin tot eind.",
+      "footerText": "Hoogwaardig vervoer, reizen, schoonmaak en chauffeurhuur. Eén contact, één duidelijke norm, georganiseerd van begin tot eind.",
       "privacy": "Privacybeleid",
       "cookies": "Cookies",
       "rights": "Alle rechten voorbehouden.",
@@ -382,10 +427,21 @@
       "contactText": "Stuur details, datum en locatie. Ontbreekt er iets, dan komen we terug met een concrete vraag — niet met een standaardantwoord.",
       "fleetPageTitle": "Voertuigen voor privétransfers en georganiseerd groepsvervoer.",
       "cookieBannerTitle": "Uw privacy, zonder kleine lettertjes.",
-      "cookieBannerText": "We gebruiken noodzakelijke cookies voor de werking van de website en analytics alleen met uw toestemming.",
+      "cookieBannerText": "We gebruiken noodzakelijke cookies voor de werking van de website en analytische cookies alleen met uw toestemming.",
       "cookieAccept": "Alles accepteren",
       "cookieNecessary": "Alleen noodzakelijk",
-      "cookieSettings": "Instellingen"
+      "cookieSettings": "Instellingen",
+      "introCaption": "Hoogwaardige diensten · Eén DEAL",
+      "homeTitle": "Hoogwaardige diensten",
+      "scrollLabel": "Ontdek",
+      "fleetBrandLabel": "DEAL WAGENPARK",
+      "standardLabel": "DEAL STANDAARD",
+      "contactBrandLabel": "DEAL CONTACT",
+      "premiumStandard": "Hoogwaardige standaard",
+      "mainNavigation": "Hoofdnavigatie",
+      "languageSelector": "Taalkeuze",
+      "languageLabel": "Taal",
+      "menuLabel": "Menu"
     }
   },
   "divisions": [
@@ -395,10 +451,10 @@
       "image": "/assets/images/taxi-mercedes.avif",
       "icon": "car",
       "titles": {
-        "hr": "DEAL Taxi & Transfers",
+        "hr": "DEAL Taxi i transferi",
         "en": "DEAL Taxi & Transfers",
-        "de": "DEAL Taxi & Transfers",
-        "nl": "DEAL Taxi & Transfers"
+        "de": "DEAL Taxi & Transfer",
+        "nl": "DEAL Taxi en transfers"
       },
       "descriptions": {
         "hr": "Privatni i poslovni transferi, zračne luke i duže relacije — organizirani precizno, diskretno i bez nepotrebnog čekanja.",
@@ -413,7 +469,7 @@
       "image": "/assets/images/travel-setra.avif",
       "icon": "bus",
       "titles": {
-        "hr": "DEAL Travel",
+        "hr": "DEAL Putovanja",
         "en": "DEAL Travel",
         "de": "DEAL Reisen",
         "nl": "DEAL Reizen"
@@ -431,7 +487,7 @@
       "image": "/assets/images/clean-premium.avif",
       "icon": "sparkles",
       "titles": {
-        "hr": "DEAL Clean",
+        "hr": "DEAL Čišćenje",
         "en": "DEAL Clean",
         "de": "DEAL Reinigung",
         "nl": "DEAL Schoonmaak"
@@ -494,7 +550,7 @@
         "title": {
           "hr": "Poslovni transferi",
           "en": "Business transfers",
-          "de": "Business-Transfers",
+          "de": "Geschäftstransfers",
           "nl": "Zakelijke transfers"
         },
         "excerpt": {
@@ -506,7 +562,7 @@
         "body": {
           "hr": "Kod poslovnog transfera fokus je na točnosti, urednosti vozila i komunikaciji bez suvišnih koraka. Možemo organizirati pojedinačne vožnje ili cijeli raspored za goste i timove.",
           "en": "Business transfers focus on timing, immaculate vehicles and frictionless communication. We can handle a single ride or an entire schedule for guests and teams.",
-          "de": "Bei Business-Transfers stehen Pünktlichkeit, gepflegte Fahrzeuge und reibungslose Kommunikation im Mittelpunkt.",
+          "de": "Bei Geschäftstransfers stehen Pünktlichkeit, gepflegte Fahrzeuge und reibungslose Kommunikation im Mittelpunkt.",
           "nl": "Zakelijke transfers draaien om stiptheid, verzorgde voertuigen en communicatie zonder frictie."
         }
       },
@@ -706,16 +762,21 @@
     {
       "name": "Mercedes-Benz E-Class",
       "type": {
-        "hr": "Premium sedan",
+        "hr": "Luksuzna limuzina",
         "en": "Premium sedan",
-        "de": "Premium-Limousine",
-        "nl": "Premium sedan"
+        "de": "Luxuslimousine",
+        "nl": "Luxe sedan"
       },
       "image": "/assets/images/taxi-mercedes.avif",
-      "capacity": "1–3"
+      "capacity": {
+        "hr": "1–3",
+        "en": "1–3",
+        "de": "1–3",
+        "nl": "1–3"
+      }
     },
     {
-      "name": "Setra Touring Coach",
+      "name": "Setra",
       "type": {
         "hr": "Turistički autobus",
         "en": "Touring coach",
@@ -723,7 +784,12 @@
         "nl": "Touringcar"
       },
       "image": "/assets/images/fleet-bus.avif",
-      "capacity": "grupe"
+      "capacity": {
+        "hr": "Grupe",
+        "en": "Groups",
+        "de": "Gruppen",
+        "nl": "Groepen"
+      }
     }
   ],
   "pages": []
