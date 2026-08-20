@@ -1,0 +1,2 @@
+import { json,makeSession,needEnv } from '../_lib/auth.js';
+export async function onRequestPost({request,env}){const miss=needEnv(env,['ADMIN_PASSWORD','SESSION_SECRET']);if(miss)return json({error:miss},503);let body={};try{body=await request.json()}catch{}if(body.password!==env.ADMIN_PASSWORD)return json({error:'invalid_credentials'},401);const token=await makeSession(env.SESSION_SECRET);return json({ok:true},200,{'set-cookie':`deal_session=${encodeURIComponent(token)}; HttpOnly; Secure; SameSite=Strict; Path=/; Max-Age=28800`})}

@@ -1,0 +1,11 @@
+{
+  "name": "deal-premium-services",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "npx serve dist"
+  },
+  "engines": {"node": ">=18"}
+}

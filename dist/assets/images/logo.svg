@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-labelledby="title desc">
+  <title id="title">DEAL</title><desc id="desc">DEAL premium services logo</desc>
+  <defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff985f"/><stop offset=".52" stop-color="#c96b38"/><stop offset="1" stop-color="#8e421f"/></linearGradient></defs>
+  <g fill="none" stroke="url(#c)" stroke-width="2.4">
+    <circle cx="47" cy="48" r="34"/><circle cx="47" cy="48" r="27" opacity=".32"/>
+    <path d="M29 28h18c15 0 25 8 25 20S62 68 47 68H29z"/>
+    <path d="M38 24v48M38 38h15c8 0 13 4 13 10s-5 10-13 10H38"/>
+    <path d="M72 18l5 5-11 11"/><circle cx="78" cy="17" r="2.8" fill="#d87841" stroke="none"/>
+  </g>
+  <text x="95" y="62" fill="url(#c)" font-family="Georgia, 'Times New Roman', serif" font-size="43" letter-spacing="5">DEAL</text>
+</svg>

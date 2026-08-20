@@ -1,0 +1,730 @@
+{
+  "settings": {
+    "brand": "DEAL",
+    "domain": "dealtravel.hr",
+    "phoneDisplay": "099 834 7026",
+    "phone": "+385998347026",
+    "whatsapp": "+385998347026",
+    "email": "deal@dealinfo.eu",
+    "location": "Istra, Hrvatska",
+    "coverage": "Pula · Rijeka · Istra · Europa",
+    "instagram": "#",
+    "facebook": "#",
+    "analyticsId": ""
+  },
+  "locales": {
+    "hr": {
+      "label": "HR",
+      "name": "Hrvatski",
+      "flag": "🇭🇷"
+    },
+    "en": {
+      "label": "EN",
+      "name": "English",
+      "flag": "🇬🇧"
+    },
+    "de": {
+      "label": "DE",
+      "name": "Deutsch",
+      "flag": "🇩🇪"
+    },
+    "nl": {
+      "label": "NL",
+      "name": "Nederlands",
+      "flag": "🇳🇱"
+    }
+  },
+  "copy": {
+    "hr": {
+      "nav": {
+        "home": "Početna",
+        "taxi": "Taxi & Transfers",
+        "travel": "Travel",
+        "clean": "Clean",
+        "drivers": "Najam vozača",
+        "fleet": "Vozni park",
+        "about": "O nama",
+        "contact": "Kontakt"
+      },
+      "heroEyebrow": "DEAL · PREMIUM SERVICES",
+      "heroTitle": "DEAL",
+      "heroSubtitle": "PREMIUM SERVICES. ONE DEAL.",
+      "heroText": "Prijevoz, putovanja, profesionalno čišćenje i provjereni vozači — povezani standardom usluge na koji se možete osloniti.",
+      "heroPrimary": "Istraži usluge",
+      "heroSecondary": "Pošalji upit",
+      "serviceIntroKicker": "ČETIRI SPECIJALIZIRANE CJELINE",
+      "serviceIntroTitle": "Jedan potpis. Četiri načina da vam olakšamo dan.",
+      "serviceIntroText": "DEAL okuplja usluge koje traže povjerenje, organizaciju i preciznost. Svaka cjelina ima svoj tim i fokus, a standard ostaje isti: jasna komunikacija, odgovornost i izvedba bez improvizacije.",
+      "whyKicker": "ZAŠTO DEAL",
+      "whyTitle": "Premium nije detalj. To je način rada.",
+      "whyText": "Od prvog poziva do završene usluge, svaki korak vodimo organizirano i transparentno. Bez nepotrebne komplikacije, bez skrivenih očekivanja.",
+      "whyItems": [
+        [
+          "24/7 dostupnost",
+          "Kad plan ne može čekati, odgovaramo brzo i jasno."
+        ],
+        [
+          "Provjeren tim",
+          "Vozači, partneri i operativa birani su prema iskustvu i pouzdanosti."
+        ],
+        [
+          "Fleksibilna organizacija",
+          "Privatni klijent, grupa ili tvrtka — uslugu prilagođavamo stvarnoj potrebi."
+        ],
+        [
+          "Regionalno i međunarodno",
+          "Istra je naša baza, ali radimo diljem Hrvatske i Europe."
+        ]
+      ],
+      "featuredKicker": "IZDVOJENO",
+      "featuredTitle": "Od aerodroma do vikenda bez plana B.",
+      "featuredText": "Najtraženije usluge i putovanja objedinjena na jednom mjestu.",
+      "fleetKicker": "VOZNI PARK",
+      "fleetTitle": "Udobnost koja se vidi prije nego što krenete.",
+      "fleetText": "Od elegantnog individualnog transfera do organiziranog prijevoza grupe, vozilo biramo prema ruti, broju putnika i razini komfora koju očekujete.",
+      "driverKicker": "NAJAM DEAL VOZAČA",
+      "driverTitle": "Povezujemo profesionalne vozače i tvrtke.",
+      "driverText": "Fleksibilan model za situacije kada tvrtki treba pouzdan vozač, a profesionalcu kvalitetan angažman bez dugoročnog vezivanja.",
+      "forDrivers": "Za vozače",
+      "forCompanies": "Za tvrtke",
+      "apply": "Prijavi se kao vozač",
+      "request": "Zatraži vozača",
+      "ctaTitle": "Trebate prijevoz, putovanje, čišćenje ili vozača?",
+      "ctaText": "Recite nam što vam treba. Vratit ćemo se s jasnim prijedlogom i sljedećim korakom.",
+      "ctaButton": "Kontaktirajte nas",
+      "footerText": "Premium usluge prijevoza, putovanja, čišćenja i najma vozača. Jedan kontakt, jasan standard i organizacija od početka do kraja.",
+      "privacy": "Politika privatnosti",
+      "cookies": "Kolačići",
+      "rights": "Sva prava pridržana.",
+      "form": {
+        "name": "Ime i prezime",
+        "email": "E-mail",
+        "phone": "Telefon",
+        "service": "Odaberite uslugu",
+        "message": "Opišite što vam treba",
+        "send": "Pošalji upit",
+        "consent": "Slanjem obrasca potvrđujem da sam pročitao/la Politiku privatnosti.",
+        "success": "Hvala. Vaš upit je zaprimljen.",
+        "error": "Upit trenutačno nije moguće poslati. Nazovite nas ili pošaljite WhatsApp poruku."
+      },
+      "readMore": "Saznaj više",
+      "viewAll": "Pogledaj sve",
+      "contactUs": "Kontaktirajte nas",
+      "call": "Nazovi",
+      "whatsapp": "WhatsApp",
+      "pageAboutTitle": "Više od usluge. Mi stvaramo infrastrukturu povjerenja.",
+      "pageAboutText": "DEAL je nastao iz jednostavne ideje: različite svakodnevne potrebe mogu se voditi jednako profesionalno. Zato prijevoz, putovanja, čišćenje i angažman vozača gradimo kao povezane usluge, s jednim standardom komunikacije i odgovornosti.",
+      "contactTitle": "Recite nam kamo želite stići.",
+      "contactText": "Pošaljite detalje, termin i lokaciju. Ako nešto nedostaje, javit ćemo se s konkretnim pitanjem — ne generičkim odgovorom.",
+      "fleetPageTitle": "Vozila za privatne transfere i organizirani prijevoz.",
+      "cookieBannerTitle": "Vaša privatnost, bez sitnih slova.",
+      "cookieBannerText": "Koristimo nužne kolačiće za rad stranice, a analitičke samo uz vašu privolu.",
+      "cookieAccept": "Prihvati sve",
+      "cookieNecessary": "Samo nužni",
+      "cookieSettings": "Postavke"
+    },
+    "en": {
+      "nav": {
+        "home": "Home",
+        "taxi": "Taxi & Transfers",
+        "travel": "Travel",
+        "clean": "Clean",
+        "drivers": "Drivers",
+        "fleet": "Fleet",
+        "about": "About",
+        "contact": "Contact"
+      },
+      "heroEyebrow": "DEAL · PREMIUM SERVICES",
+      "heroTitle": "DEAL",
+      "heroSubtitle": "PREMIUM SERVICES. ONE DEAL.",
+      "heroText": "Transport, curated travel, professional cleaning and trusted drivers — connected by one service standard you can rely on.",
+      "heroPrimary": "Explore services",
+      "heroSecondary": "Send an enquiry",
+      "serviceIntroKicker": "FOUR SPECIALIST DIVISIONS",
+      "serviceIntroTitle": "One signature. Four ways to make your day easier.",
+      "serviceIntroText": "DEAL brings together services that demand trust, organisation and precision. Each division has its own focus; the standard stays the same: clear communication, accountability and delivery without improvisation.",
+      "whyKicker": "WHY DEAL",
+      "whyTitle": "Premium is not a detail. It is the way we work.",
+      "whyText": "From the first call to the completed service, every step is handled with structure and transparency.",
+      "whyItems": [
+        [
+          "24/7 availability",
+          "When plans cannot wait, we respond quickly and clearly."
+        ],
+        [
+          "Trusted team",
+          "Drivers, partners and operations are selected for experience and reliability."
+        ],
+        [
+          "Flexible organisation",
+          "Private client, group or company — the service follows the real need."
+        ],
+        [
+          "Regional & international",
+          "Istria is our base; Croatia and Europe are our operating field."
+        ]
+      ],
+      "featuredKicker": "FEATURED",
+      "featuredTitle": "From the airport to a weekend with no plan B.",
+      "featuredText": "Our most requested services and journeys in one place.",
+      "fleetKicker": "FLEET",
+      "fleetTitle": "Comfort you notice before the journey begins.",
+      "fleetText": "From elegant individual transfers to organised group transport, the vehicle is matched to the route, passenger count and expected level of comfort.",
+      "driverKicker": "DEAL DRIVER HIRE",
+      "driverTitle": "Connecting professional drivers and companies.",
+      "driverText": "A flexible model for companies that need a reliable driver and professionals looking for quality engagements without unnecessary long-term commitments.",
+      "forDrivers": "For drivers",
+      "forCompanies": "For companies",
+      "apply": "Apply as a driver",
+      "request": "Request a driver",
+      "ctaTitle": "Need transport, a journey, cleaning or a driver?",
+      "ctaText": "Tell us what you need. We will come back with a clear proposal and the next step.",
+      "ctaButton": "Contact us",
+      "footerText": "Premium transport, travel, cleaning and driver hire. One contact, one clear standard, organised from start to finish.",
+      "privacy": "Privacy policy",
+      "cookies": "Cookies",
+      "rights": "All rights reserved.",
+      "form": {
+        "name": "Full name",
+        "email": "Email",
+        "phone": "Phone",
+        "service": "Select a service",
+        "message": "Tell us what you need",
+        "send": "Send enquiry",
+        "consent": "By sending this form I confirm that I have read the Privacy Policy.",
+        "success": "Thank you. Your enquiry has been received.",
+        "error": "The enquiry cannot be sent right now. Please call us or send a WhatsApp message."
+      },
+      "readMore": "Learn more",
+      "viewAll": "View all",
+      "contactUs": "Contact us",
+      "call": "Call",
+      "whatsapp": "WhatsApp",
+      "pageAboutTitle": "More than a service. We build infrastructure for trust.",
+      "pageAboutText": "DEAL grew from a simple idea: different everyday needs can be managed with the same level of professionalism. Transport, travel, cleaning and driver hire therefore share one standard of communication and accountability.",
+      "contactTitle": "Tell us where you need to be.",
+      "contactText": "Send the details, date and location. If something is missing, we will return with a specific question — not a generic reply.",
+      "fleetPageTitle": "Vehicles for private transfers and organised group transport.",
+      "cookieBannerTitle": "Your privacy, without fine print.",
+      "cookieBannerText": "We use essential cookies for the website to function and analytics only with your consent.",
+      "cookieAccept": "Accept all",
+      "cookieNecessary": "Necessary only",
+      "cookieSettings": "Settings"
+    },
+    "de": {
+      "nav": {
+        "home": "Startseite",
+        "taxi": "Taxi & Transfers",
+        "travel": "Reisen",
+        "clean": "Reinigung",
+        "drivers": "Fahrer mieten",
+        "fleet": "Fuhrpark",
+        "about": "Über uns",
+        "contact": "Kontakt"
+      },
+      "heroEyebrow": "DEAL · PREMIUM SERVICES",
+      "heroTitle": "DEAL",
+      "heroSubtitle": "PREMIUM SERVICES. ONE DEAL.",
+      "heroText": "Transfers, sorgfältig geplante Reisen, professionelle Reinigung und verlässliche Fahrer — verbunden durch einen Servicestandard, auf den Sie sich verlassen können.",
+      "heroPrimary": "Leistungen entdecken",
+      "heroSecondary": "Anfrage senden",
+      "serviceIntroKicker": "VIER SPEZIALISIERTE BEREICHE",
+      "serviceIntroTitle": "Eine Handschrift. Vier Wege, Ihren Alltag leichter zu machen.",
+      "serviceIntroText": "DEAL verbindet Leistungen, bei denen Vertrauen, Organisation und Präzision zählen. Jeder Bereich hat seinen Fokus; der Standard bleibt gleich: klare Kommunikation, Verantwortung und zuverlässige Umsetzung.",
+      "whyKicker": "WARUM DEAL",
+      "whyTitle": "Premium ist kein Detail. Es ist unsere Arbeitsweise.",
+      "whyText": "Vom ersten Kontakt bis zur abgeschlossenen Leistung führen wir jeden Schritt strukturiert und transparent.",
+      "whyItems": [
+        [
+          "24/7 erreichbar",
+          "Wenn Pläne nicht warten können, reagieren wir schnell und klar."
+        ],
+        [
+          "Geprüftes Team",
+          "Fahrer, Partner und operative Abläufe stehen für Erfahrung und Zuverlässigkeit."
+        ],
+        [
+          "Flexible Organisation",
+          "Privatkunde, Gruppe oder Unternehmen — die Leistung richtet sich nach dem echten Bedarf."
+        ],
+        [
+          "Regional & international",
+          "Istrien ist unsere Basis; Kroatien und Europa unser Einsatzgebiet."
+        ]
+      ],
+      "featuredKicker": "AUSGEWÄHLT",
+      "featuredTitle": "Vom Flughafen bis zum Wochenende ohne Plan B.",
+      "featuredText": "Unsere gefragtesten Leistungen und Reisen auf einen Blick.",
+      "fleetKicker": "FUHRPARK",
+      "fleetTitle": "Komfort, den man vor der Abfahrt erkennt.",
+      "fleetText": "Vom eleganten Einzeltransfer bis zum organisierten Gruppentransport wählen wir das Fahrzeug passend zu Route, Personenzahl und Komfortanspruch.",
+      "driverKicker": "DEAL FAHRERVERMIETUNG",
+      "driverTitle": "Wir verbinden professionelle Fahrer und Unternehmen.",
+      "driverText": "Ein flexibles Modell für Unternehmen mit kurzfristigem Fahrerbedarf und Profis, die hochwertige Einsätze ohne unnötige Langzeitbindung suchen.",
+      "forDrivers": "Für Fahrer",
+      "forCompanies": "Für Unternehmen",
+      "apply": "Als Fahrer bewerben",
+      "request": "Fahrer anfragen",
+      "ctaTitle": "Benötigen Sie Transfer, Reise, Reinigung oder einen Fahrer?",
+      "ctaText": "Sagen Sie uns, was Sie brauchen. Sie erhalten einen klaren Vorschlag und den nächsten Schritt.",
+      "ctaButton": "Kontakt aufnehmen",
+      "footerText": "Premium-Transfers, Reisen, Reinigung und Fahrervermietung. Ein Kontakt, ein klarer Standard, organisiert von Anfang bis Ende.",
+      "privacy": "Datenschutz",
+      "cookies": "Cookies",
+      "rights": "Alle Rechte vorbehalten.",
+      "form": {
+        "name": "Vor- und Nachname",
+        "email": "E-Mail",
+        "phone": "Telefon",
+        "service": "Leistung auswählen",
+        "message": "Beschreiben Sie Ihren Bedarf",
+        "send": "Anfrage senden",
+        "consent": "Mit dem Absenden bestätige ich, die Datenschutzerklärung gelesen zu haben.",
+        "success": "Danke. Ihre Anfrage ist eingegangen.",
+        "error": "Die Anfrage kann derzeit nicht gesendet werden. Bitte rufen Sie uns an oder schreiben Sie per WhatsApp."
+      },
+      "readMore": "Mehr erfahren",
+      "viewAll": "Alle ansehen",
+      "contactUs": "Kontakt",
+      "call": "Anrufen",
+      "whatsapp": "WhatsApp",
+      "pageAboutTitle": "Mehr als eine Dienstleistung. Wir schaffen Vertrauen durch Struktur.",
+      "pageAboutText": "DEAL entstand aus einer einfachen Idee: Unterschiedliche Alltagsbedürfnisse können mit demselben professionellen Anspruch organisiert werden. Transfers, Reisen, Reinigung und Fahrervermietung teilen daher einen Standard für Kommunikation und Verantwortung.",
+      "contactTitle": "Sagen Sie uns, wohin Sie möchten.",
+      "contactText": "Senden Sie Details, Termin und Ort. Fehlt etwas, melden wir uns mit einer konkreten Frage — nicht mit einer Standardantwort.",
+      "fleetPageTitle": "Fahrzeuge für private Transfers und organisierten Gruppentransport.",
+      "cookieBannerTitle": "Ihre Privatsphäre, ohne Kleingedrucktes.",
+      "cookieBannerText": "Wir verwenden notwendige Cookies für die Funktion der Website und Analyse nur mit Ihrer Einwilligung.",
+      "cookieAccept": "Alle akzeptieren",
+      "cookieNecessary": "Nur notwendige",
+      "cookieSettings": "Einstellungen"
+    },
+    "nl": {
+      "nav": {
+        "home": "Home",
+        "taxi": "Taxi & Transfers",
+        "travel": "Reizen",
+        "clean": "Schoonmaak",
+        "drivers": "Chauffeur huren",
+        "fleet": "Wagenpark",
+        "about": "Over ons",
+        "contact": "Contact"
+      },
+      "heroEyebrow": "DEAL · PREMIUM SERVICES",
+      "heroTitle": "DEAL",
+      "heroSubtitle": "PREMIUM SERVICES. ONE DEAL.",
+      "heroText": "Transfers, zorgvuldig samengestelde reizen, professionele schoonmaak en betrouwbare chauffeurs — verbonden door één servicenorm waarop u kunt rekenen.",
+      "heroPrimary": "Ontdek diensten",
+      "heroSecondary": "Stuur aanvraag",
+      "serviceIntroKicker": "VIER GESPECIALISEERDE DIVISIES",
+      "serviceIntroTitle": "Eén handtekening. Vier manieren om uw dag eenvoudiger te maken.",
+      "serviceIntroText": "DEAL bundelt diensten waar vertrouwen, organisatie en precisie essentieel zijn. Elke divisie heeft een eigen focus; de norm blijft gelijk: heldere communicatie, verantwoordelijkheid en uitvoering zonder improvisatie.",
+      "whyKicker": "WAAROM DEAL",
+      "whyTitle": "Premium is geen detail. Het is onze manier van werken.",
+      "whyText": "Van het eerste contact tot de afgeronde dienst wordt elke stap gestructureerd en transparant uitgevoerd.",
+      "whyItems": [
+        [
+          "24/7 bereikbaar",
+          "Wanneer plannen niet kunnen wachten, reageren we snel en duidelijk."
+        ],
+        [
+          "Betrouwbaar team",
+          "Chauffeurs, partners en operatie worden geselecteerd op ervaring en betrouwbaarheid."
+        ],
+        [
+          "Flexibele organisatie",
+          "Particulier, groep of bedrijf — de dienst sluit aan op de echte behoefte."
+        ],
+        [
+          "Regionaal & internationaal",
+          "Istrië is onze basis; Kroatië en Europa ons werkgebied."
+        ]
+      ],
+      "featuredKicker": "UITGELICHT",
+      "featuredTitle": "Van de luchthaven tot een weekend zonder plan B.",
+      "featuredText": "Onze meest gevraagde diensten en reizen op één plek.",
+      "fleetKicker": "WAGENPARK",
+      "fleetTitle": "Comfort dat u al vóór vertrek merkt.",
+      "fleetText": "Van elegante individuele transfers tot georganiseerd groepsvervoer: het voertuig wordt afgestemd op route, aantal passagiers en gewenst comfortniveau.",
+      "driverKicker": "DEAL CHAUFFEURHUUR",
+      "driverTitle": "Wij verbinden professionele chauffeurs en bedrijven.",
+      "driverText": "Een flexibel model voor bedrijven die een betrouwbare chauffeur nodig hebben en professionals die kwaliteitsopdrachten zoeken zonder onnodige langetermijnverplichtingen.",
+      "forDrivers": "Voor chauffeurs",
+      "forCompanies": "Voor bedrijven",
+      "apply": "Aanmelden als chauffeur",
+      "request": "Chauffeur aanvragen",
+      "ctaTitle": "Transport, reis, schoonmaak of chauffeur nodig?",
+      "ctaText": "Vertel ons wat u nodig hebt. U ontvangt een duidelijk voorstel en de volgende stap.",
+      "ctaButton": "Neem contact op",
+      "footerText": "Premium transport, reizen, schoonmaak en chauffeurhuur. Eén contact, één duidelijke norm, georganiseerd van begin tot eind.",
+      "privacy": "Privacybeleid",
+      "cookies": "Cookies",
+      "rights": "Alle rechten voorbehouden.",
+      "form": {
+        "name": "Voor- en achternaam",
+        "email": "E-mail",
+        "phone": "Telefoon",
+        "service": "Kies een dienst",
+        "message": "Vertel ons wat u nodig hebt",
+        "send": "Aanvraag versturen",
+        "consent": "Door dit formulier te verzenden bevestig ik dat ik het Privacybeleid heb gelezen.",
+        "success": "Dank u. Uw aanvraag is ontvangen.",
+        "error": "De aanvraag kan momenteel niet worden verzonden. Bel ons of stuur een WhatsApp-bericht."
+      },
+      "readMore": "Meer informatie",
+      "viewAll": "Alles bekijken",
+      "contactUs": "Contact",
+      "call": "Bellen",
+      "whatsapp": "WhatsApp",
+      "pageAboutTitle": "Meer dan een dienst. Wij bouwen aan vertrouwen met structuur.",
+      "pageAboutText": "DEAL ontstond vanuit een eenvoudig idee: verschillende dagelijkse behoeften kunnen met dezelfde professionele standaard worden georganiseerd. Transport, reizen, schoonmaak en chauffeurhuur delen daarom één norm voor communicatie en verantwoordelijkheid.",
+      "contactTitle": "Vertel ons waar u naartoe wilt.",
+      "contactText": "Stuur details, datum en locatie. Ontbreekt er iets, dan komen we terug met een concrete vraag — niet met een standaardantwoord.",
+      "fleetPageTitle": "Voertuigen voor privétransfers en georganiseerd groepsvervoer.",
+      "cookieBannerTitle": "Uw privacy, zonder kleine lettertjes.",
+      "cookieBannerText": "We gebruiken noodzakelijke cookies voor de werking van de website en analytics alleen met uw toestemming.",
+      "cookieAccept": "Alles accepteren",
+      "cookieNecessary": "Alleen noodzakelijk",
+      "cookieSettings": "Instellingen"
+    }
+  },
+  "divisions": [
+    {
+      "id": "taxi",
+      "path": "taxi-transfers",
+      "image": "/assets/images/taxi-mercedes.avif",
+      "icon": "car",
+      "titles": {
+        "hr": "DEAL Taxi & Transfers",
+        "en": "DEAL Taxi & Transfers",
+        "de": "DEAL Taxi & Transfers",
+        "nl": "DEAL Taxi & Transfers"
+      },
+      "descriptions": {
+        "hr": "Privatni i poslovni transferi, zračne luke i duže relacije — organizirani precizno, diskretno i bez nepotrebnog čekanja.",
+        "en": "Private and business transfers, airports and long-distance routes — organised precisely, discreetly and without unnecessary waiting.",
+        "de": "Private und geschäftliche Transfers, Flughäfen und Langstrecken — präzise, diskret und ohne unnötige Wartezeiten organisiert.",
+        "nl": "Privé- en zakelijke transfers, luchthavens en lange afstanden — precies, discreet en zonder onnodig wachten georganiseerd."
+      }
+    },
+    {
+      "id": "travel",
+      "path": "travel",
+      "image": "/assets/images/travel-setra.avif",
+      "icon": "bus",
+      "titles": {
+        "hr": "DEAL Travel",
+        "en": "DEAL Travel",
+        "de": "DEAL Reisen",
+        "nl": "DEAL Reizen"
+      },
+      "descriptions": {
+        "hr": "Jednodnevni i višednevni izleti, autobusna putovanja i pažljivo odabrane europske destinacije.",
+        "en": "Day trips, multi-day journeys, coach travel and carefully selected European destinations.",
+        "de": "Tages- und Mehrtagesreisen, Busreisen und sorgfältig ausgewählte europäische Ziele.",
+        "nl": "Dagtrips, meerdaagse reizen, busreizen en zorgvuldig geselecteerde Europese bestemmingen."
+      }
+    },
+    {
+      "id": "clean",
+      "path": "clean",
+      "image": "/assets/images/clean-premium.avif",
+      "icon": "sparkles",
+      "titles": {
+        "hr": "DEAL Clean",
+        "en": "DEAL Clean",
+        "de": "DEAL Reinigung",
+        "nl": "DEAL Schoonmaak"
+      },
+      "descriptions": {
+        "hr": "Profesionalno čišćenje apartmana, vila, poslovnih prostora i objekata kojima je važan uredan prvi dojam.",
+        "en": "Professional cleaning for apartments, villas, business spaces and properties where first impressions matter.",
+        "de": "Professionelle Reinigung für Apartments, Villen, Geschäftsräume und Objekte, bei denen der erste Eindruck zählt.",
+        "nl": "Professionele schoonmaak voor appartementen, villa's, bedrijfsruimten en locaties waar de eerste indruk telt."
+      }
+    },
+    {
+      "id": "drivers",
+      "path": "najam-vozaca",
+      "image": "/assets/images/driver-setra.avif",
+      "icon": "driver",
+      "titles": {
+        "hr": "Najam DEAL vozača",
+        "en": "DEAL Driver Hire",
+        "de": "DEAL Fahrervermietung",
+        "nl": "DEAL Chauffeurhuur"
+      },
+      "descriptions": {
+        "hr": "Pouzdani profesionalni vozači kada tvrtki treba dodatni kapacitet, sezonska podrška ili zamjena bez dugoročnog vezivanja.",
+        "en": "Reliable professional drivers when a company needs extra capacity, seasonal support or temporary cover without long-term commitment.",
+        "de": "Zuverlässige Profifahrer für zusätzlichen Bedarf, Saisonspitzen oder Vertretungen ohne langfristige Bindung.",
+        "nl": "Betrouwbare professionele chauffeurs voor extra capaciteit, seizoensondersteuning of tijdelijke vervanging zonder langetermijnverplichting."
+      }
+    }
+  ],
+  "items": {
+    "taxi": [
+      {
+        "slug": "airport-transfers",
+        "image": "/assets/images/taxi-airport.avif",
+        "featured": true,
+        "title": {
+          "hr": "Transferi do zračnih luka",
+          "en": "Airport transfers",
+          "de": "Flughafentransfers",
+          "nl": "Luchthaventransfers"
+        },
+        "excerpt": {
+          "hr": "Preuzimanje u dogovoreno vrijeme, pomoć s prtljagom i izravna vožnja bez nepotrebnih zaustavljanja.",
+          "en": "On-time pickup, luggage assistance and direct travel without unnecessary stops.",
+          "de": "Pünktliche Abholung, Hilfe mit dem Gepäck und direkte Fahrt ohne unnötige Stopps.",
+          "nl": "Stipt ophalen, hulp met bagage en rechtstreeks vervoer zonder onnodige stops."
+        },
+        "body": {
+          "hr": "Aerodromski transfer organiziramo prema vašem letu, broju putnika i količini prtljage. Pratimo dogovoreni raspored i ostavljamo dovoljno vremena za dolazak, bez stvaranja dodatnog stresa na početku ili kraju putovanja.",
+          "en": "Airport transfers are organised around your flight, passenger count and luggage. We build in the right amount of time for a calm departure or arrival, without unnecessary stress.",
+          "de": "Flughafentransfers planen wir nach Flug, Personenzahl und Gepäck. Wir kalkulieren ausreichend Zeit für eine ruhige An- oder Abreise ein.",
+          "nl": "Luchthaventransfers plannen we rond uw vlucht, aantal passagiers en bagage. We voorzien voldoende tijd voor een ontspannen vertrek of aankomst."
+        }
+      },
+      {
+        "slug": "business-transfers",
+        "image": "/assets/images/taxi-mercedes.avif",
+        "featured": true,
+        "title": {
+          "hr": "Poslovni transferi",
+          "en": "Business transfers",
+          "de": "Business-Transfers",
+          "nl": "Zakelijke transfers"
+        },
+        "excerpt": {
+          "hr": "Diskretan prijevoz za sastanke, goste, događanja i poslovne rasporede u kojima vrijeme nije fleksibilno.",
+          "en": "Discreet transport for meetings, guests, events and schedules where timing is non-negotiable.",
+          "de": "Diskrete Fahrten für Termine, Gäste, Veranstaltungen und Zeitpläne, bei denen Pünktlichkeit zählt.",
+          "nl": "Discreet vervoer voor afspraken, gasten, events en agenda's waar timing essentieel is."
+        },
+        "body": {
+          "hr": "Kod poslovnog transfera fokus je na točnosti, urednosti vozila i komunikaciji bez suvišnih koraka. Možemo organizirati pojedinačne vožnje ili cijeli raspored za goste i timove.",
+          "en": "Business transfers focus on timing, immaculate vehicles and frictionless communication. We can handle a single ride or an entire schedule for guests and teams.",
+          "de": "Bei Business-Transfers stehen Pünktlichkeit, gepflegte Fahrzeuge und reibungslose Kommunikation im Mittelpunkt.",
+          "nl": "Zakelijke transfers draaien om stiptheid, verzorgde voertuigen en communicatie zonder frictie."
+        }
+      },
+      {
+        "slug": "long-distance",
+        "image": "/assets/images/about-coast.avif",
+        "featured": false,
+        "title": {
+          "hr": "Duge relacije",
+          "en": "Long-distance transfers",
+          "de": "Langstreckentransfers",
+          "nl": "Langeafstandstransfers"
+        },
+        "excerpt": {
+          "hr": "Privatna vožnja iz Istre prema Zagrebu, Sloveniji, Italiji, Austriji i drugim europskim odredištima.",
+          "en": "Private travel from Istria to Zagreb, Slovenia, Italy, Austria and other European destinations.",
+          "de": "Private Fahrten von Istrien nach Zagreb, Slowenien, Italien, Österreich und weitere Ziele in Europa.",
+          "nl": "Privévervoer vanuit Istrië naar Zagreb, Slovenië, Italië, Oostenrijk en andere Europese bestemmingen."
+        },
+        "body": {
+          "hr": "Duga relacija nije samo pitanje kilometara. Planiramo vrijeme polaska, pauze, granice i vozilo tako da put ostane ugodan i predvidiv od vrata do vrata.",
+          "en": "Long-distance travel is more than mileage. Departure time, breaks, borders and vehicle choice are planned so the trip remains comfortable and predictable door to door.",
+          "de": "Langstrecken sind mehr als Kilometer. Abfahrt, Pausen, Grenzen und Fahrzeugwahl werden so geplant, dass die Reise angenehm und planbar bleibt.",
+          "nl": "Lange ritten zijn meer dan kilometers. Vertrektijd, pauzes, grenzen en voertuigkeuze worden gepland voor een comfortabele reis van deur tot deur."
+        }
+      }
+    ],
+    "travel": [
+      {
+        "slug": "istra-private-day",
+        "image": "/assets/images/travel-adriatic.avif",
+        "featured": true,
+        "title": {
+          "hr": "Istra po vašem ritmu",
+          "en": "Istria at your pace",
+          "de": "Istrien in Ihrem Tempo",
+          "nl": "Istrië op uw tempo"
+        },
+        "excerpt": {
+          "hr": "Privatni dan kroz obalu, male gradove i mjesta koja se ne doživljavaju iz autobusa u prolazu.",
+          "en": "A private day through the coast, small towns and places you do not experience from a passing coach.",
+          "de": "Ein privater Tag entlang der Küste, durch kleine Orte und Plätze, die man nicht aus dem vorbeifahrenden Bus erlebt.",
+          "nl": "Een privédag langs de kust, kleine stadjes en plekken die u niet vanuit een passerende bus beleeft."
+        },
+        "body": {
+          "hr": "Ruta se prilagođava polazištu, interesima i tempu grupe. Fokus nije na što većem broju stanica, nego na dovoljno vremena za mjesto, ručak, fotografiju i trenutak bez žurbe.",
+          "en": "The route follows your starting point, interests and pace. The goal is not to collect stops but to leave enough time for the place, lunch, photos and moments without rushing.",
+          "de": "Die Route richtet sich nach Startpunkt, Interessen und Tempo. Ziel ist nicht die maximale Zahl an Stopps, sondern echte Zeit für Ort, Essen und Erlebnisse.",
+          "nl": "De route volgt uw vertrekpunt, interesses en tempo. Niet zoveel mogelijk stops, maar genoeg tijd voor de plek, lunch, foto's en momenten zonder haast."
+        }
+      },
+      {
+        "slug": "plitvice-rastoke",
+        "image": "/assets/images/travel-setra.avif",
+        "featured": true,
+        "title": {
+          "hr": "Plitvice i Rastoke",
+          "en": "Plitvice & Rastoke",
+          "de": "Plitvice & Rastoke",
+          "nl": "Plitvice & Rastoke"
+        },
+        "excerpt": {
+          "hr": "Cjelodnevni izlet koji kombinira najpoznatiji hrvatski nacionalni park s mirnijim uvodom u Rastokama.",
+          "en": "A full-day journey combining Croatia's best-known national park with a quieter introduction in Rastoke.",
+          "de": "Ein Tagesausflug, der Kroatiens bekanntesten Nationalpark mit dem ruhigeren Auftakt in Rastoke verbindet.",
+          "nl": "Een dagtocht die Kroatië's bekendste nationale park combineert met een rustiger begin in Rastoke."
+        },
+        "body": {
+          "hr": "Planiramo polazak, stanke i vrijeme u parku tako da dan ne izgleda kao utrka s rasporedom. Za privatne grupe rutu možemo dodatno prilagoditi.",
+          "en": "Departure, breaks and park time are planned so the day never feels like a race against the timetable. Private groups can customise the itinerary further.",
+          "de": "Abfahrt, Pausen und Parkzeit werden so geplant, dass der Tag nicht zum Wettlauf mit dem Zeitplan wird.",
+          "nl": "Vertrek, pauzes en tijd in het park worden zo gepland dat de dag niet voelt als een race tegen de klok."
+        }
+      },
+      {
+        "slug": "venice-day-trip",
+        "image": "/assets/images/about-coast.avif",
+        "featured": true,
+        "title": {
+          "hr": "Venecija — dan preko granice",
+          "en": "Venice — a day across the border",
+          "de": "Venedig — ein Tag über der Grenze",
+          "nl": "Venetië — een dag over de grens"
+        },
+        "excerpt": {
+          "hr": "Organizirani polazak iz Istre uz dovoljno vremena da Venecija ostane doživljaj, a ne samo fotografija s mosta.",
+          "en": "Organised departure from Istria with enough time for Venice to feel like an experience, not a photo stop.",
+          "de": "Organisierte Abfahrt aus Istrien mit genügend Zeit, damit Venedig zum Erlebnis wird und nicht nur zum Fotostopp.",
+          "nl": "Georganiseerd vertrek vanuit Istrië met genoeg tijd om Venetië echt te beleven, niet alleen te fotograferen."
+        },
+        "body": {
+          "hr": "Raspored prilagođavamo sezoni i prometu. Cilj je jednostavan: sigurna logistika do polazišta, jasan plan povratka i dovoljno slobodnog vremena u gradu.",
+          "en": "The schedule follows the season and traffic. The objective is simple: secure logistics, a clear return plan and enough free time in the city.",
+          "de": "Der Ablauf berücksichtigt Saison und Verkehr: sichere Logistik, klare Rückfahrt und ausreichend freie Zeit in der Stadt.",
+          "nl": "De planning volgt seizoen en verkeer: veilige logistiek, een helder terugkeermoment en genoeg vrije tijd in de stad."
+        }
+      }
+    ],
+    "clean": [
+      {
+        "slug": "apartments-villas",
+        "image": "/assets/images/clean-detail.avif",
+        "featured": true,
+        "title": {
+          "hr": "Apartmani i vile",
+          "en": "Apartments & villas",
+          "de": "Apartments & Villen",
+          "nl": "Appartementen & villa's"
+        },
+        "excerpt": {
+          "hr": "Priprema objekta između gostiju, periodično održavanje i detaljno čišćenje prije sezone.",
+          "en": "Turnover preparation, scheduled upkeep and deep cleaning before the season.",
+          "de": "Gästwechsel, regelmäßige Pflege und Grundreinigung vor der Saison.",
+          "nl": "Wisselschoonmaak, periodiek onderhoud en grondige schoonmaak vóór het seizoen."
+        },
+        "body": {
+          "hr": "Kod turističkog smještaja vrijeme i konzistentnost jednako su važni kao i čistoća. Dogovaramo opseg, termin i standard provjere kako bi objekt bio spreman kada gost stigne.",
+          "en": "In hospitality, timing and consistency matter as much as cleanliness. Scope, timing and quality checks are agreed so the property is ready when the guest arrives.",
+          "de": "In der Vermietung sind Timing und Konstanz genauso wichtig wie Sauberkeit. Umfang, Zeitpunkt und Qualitätskontrolle werden klar vereinbart.",
+          "nl": "Bij verhuur zijn timing en consistentie net zo belangrijk als schoonmaak. Omvang, planning en kwaliteitscontrole worden duidelijk afgesproken."
+        }
+      },
+      {
+        "slug": "business-spaces",
+        "image": "/assets/images/clean-premium.avif",
+        "featured": true,
+        "title": {
+          "hr": "Poslovni prostori",
+          "en": "Business spaces",
+          "de": "Geschäftsräume",
+          "nl": "Bedrijfsruimten"
+        },
+        "excerpt": {
+          "hr": "Redovito i diskretno održavanje prostora u kojem klijenti i tim trebaju uredan standard svaki dan.",
+          "en": "Regular, discreet upkeep for spaces where clients and teams expect a clean standard every day.",
+          "de": "Regelmäßige, diskrete Pflege für Räume, in denen Kunden und Teams täglich einen sauberen Standard erwarten.",
+          "nl": "Regelmatig, discreet onderhoud voor ruimten waar klanten en teams elke dag een nette standaard verwachten."
+        },
+        "body": {
+          "hr": "Termin i dinamiku prilagođavamo radnom vremenu. Cilj je da usluga ne ometa posao, a da rezultat bude vidljiv bez dodatnog upravljanja s vaše strane.",
+          "en": "Timing and frequency follow your working hours. The goal is a visible result without disrupting operations or creating extra management work for your team.",
+          "de": "Zeitpunkt und Rhythmus passen wir an Ihre Arbeitszeiten an. Das Ergebnis soll sichtbar sein, ohne den Betrieb zu stören.",
+          "nl": "Tijdstip en frequentie sluiten aan op uw werktijden. Het resultaat moet zichtbaar zijn zonder uw operatie te verstoren."
+        }
+      }
+    ],
+    "drivers": [
+      {
+        "slug": "for-drivers",
+        "image": "/assets/images/driver-setra.avif",
+        "featured": true,
+        "title": {
+          "hr": "Za vozače",
+          "en": "For drivers",
+          "de": "Für Fahrer",
+          "nl": "Voor chauffeurs"
+        },
+        "excerpt": {
+          "hr": "Profesionalni angažmani kada odgovaraju vašoj dostupnosti, iskustvu i kategorijama.",
+          "en": "Professional engagements matched to your availability, experience and licence categories.",
+          "de": "Professionelle Einsätze passend zu Verfügbarkeit, Erfahrung und Führerscheinklassen.",
+          "nl": "Professionele opdrachten passend bij beschikbaarheid, ervaring en rijbewijscategorieën."
+        },
+        "body": {
+          "hr": "Cilj je jednostavan: povezati provjerene vozače s tvrtkama kojima konkretno trebaju. Prijava ne znači obvezu prihvaćanja svakog posla; dostupnost i uvjeti potvrđuju se prije angažmana.",
+          "en": "The objective is simple: connect vetted drivers with companies that actually need them. Applying does not mean accepting every job; availability and terms are confirmed before each engagement.",
+          "de": "Ziel ist, geprüfte Fahrer mit Unternehmen zu verbinden, die sie konkret benötigen. Verfügbarkeit und Konditionen werden vor jedem Einsatz bestätigt.",
+          "nl": "Het doel is betrouwbare chauffeurs te verbinden met bedrijven die ze echt nodig hebben. Beschikbaarheid en voorwaarden worden vooraf bevestigd."
+        }
+      },
+      {
+        "slug": "for-companies",
+        "image": "/assets/images/premium-van.avif",
+        "featured": true,
+        "title": {
+          "hr": "Za tvrtke",
+          "en": "For companies",
+          "de": "Für Unternehmen",
+          "nl": "Voor bedrijven"
+        },
+        "excerpt": {
+          "hr": "Dodatni vozač za sezonu, zamjenu, projekt ili povećan obujam posla — bez dugoročnog vezivanja.",
+          "en": "Extra driver capacity for a season, replacement, project or peak workload — without unnecessary long-term commitment.",
+          "de": "Zusätzliche Fahrerkapazität für Saison, Vertretung, Projekt oder Arbeitsspitzen — ohne unnötige Langzeitbindung.",
+          "nl": "Extra chauffeurscapaciteit voor seizoen, vervanging, project of piekdrukte — zonder onnodige langetermijnverplichting."
+        },
+        "body": {
+          "hr": "Prije ponude definiramo kategoriju, iskustvo, lokaciju, trajanje i raspored. Tako tvrtka dobiva kandidata koji odgovara stvarnom poslu, a ne samo dostupno ime s liste.",
+          "en": "Before proposing a driver we define licence category, experience, location, duration and schedule. The company receives a fit for the actual job, not simply the next available name.",
+          "de": "Vor dem Vorschlag klären wir Führerscheinklasse, Erfahrung, Ort, Dauer und Zeitplan. So passt der Fahrer zur tatsächlichen Aufgabe.",
+          "nl": "Vooraf bepalen we rijbewijscategorie, ervaring, locatie, duur en planning. Zo past de chauffeur bij de echte opdracht."
+        }
+      }
+    ]
+  },
+  "fleet": [
+    {
+      "name": "Mercedes-Benz E-Class",
+      "type": {
+        "hr": "Premium sedan",
+        "en": "Premium sedan",
+        "de": "Premium-Limousine",
+        "nl": "Premium sedan"
+      },
+      "image": "/assets/images/taxi-mercedes.avif",
+      "capacity": "1–3"
+    },
+    {
+      "name": "Setra Touring Coach",
+      "type": {
+        "hr": "Turistički autobus",
+        "en": "Touring coach",
+        "de": "Reisebus",
+        "nl": "Touringcar"
+      },
+      "image": "/assets/images/fleet-bus.avif",
+      "capacity": "grupe"
+    }
+  ],
+  "pages": []
+}
