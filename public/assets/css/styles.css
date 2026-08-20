@@ -146,3 +146,127 @@ a{color:inherit;text-decoration:none} img{display:block;max-width:100%} button,i
   .nav-links .submenu-link:last-child{border-bottom:0!important}
   .nav-links>.nav-top-link{width:100%}
 }
+
+/* v8 — mobile navigation alignment + compact premium CTA controls */
+@media(max-width:900px){
+  .site-header .nav-shell{
+    display:grid;
+    grid-template-columns:max-content 1fr max-content;
+    align-items:center;
+  }
+  .site-header .brand{
+    grid-column:1;
+    justify-self:start;
+  }
+  .site-header .nav-links{
+    grid-column:1 / -1;
+  }
+  .site-header .nav-actions{
+    grid-column:3;
+    justify-self:end;
+    width:auto;
+    min-width:0;
+    margin-left:auto;
+  }
+  .site-header .menu-toggle{
+    margin-left:auto;
+  }
+
+  .btn{
+    min-height:50px;
+    border-radius:13px;
+    padding-inline:18px;
+    font-size:11px;
+    letter-spacing:.055em;
+  }
+  .btn svg{
+    width:16px;
+    height:16px;
+    flex-basis:16px;
+  }
+
+  .mobile-bar{
+    left:10px;
+    right:10px;
+    bottom:10px;
+    padding:5px;
+    gap:5px;
+    border-radius:17px;
+    box-shadow:0 14px 36px rgba(0,0,0,.42);
+  }
+  .mobile-bar a{
+    min-height:48px;
+    padding:0 12px;
+    gap:8px;
+    border-radius:12px;
+    font-size:10.5px;
+    font-weight:700;
+    letter-spacing:.055em;
+    line-height:1;
+  }
+  .mobile-bar a svg{
+    display:block;
+    width:19px!important;
+    height:19px!important;
+    flex:0 0 19px!important;
+    stroke-width:1.7;
+  }
+  .mobile-bar a:first-child{
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.12),0 8px 22px rgba(174,77,35,.2);
+  }
+  .mobile-bar a:last-child{
+    background:rgba(255,255,255,.015);
+  }
+}
+
+@media(max-width:640px){
+  .hero-actions{
+    width:100%;
+    gap:9px;
+  }
+  .hero-actions .btn{
+    width:100%;
+    min-height:54px;
+    border-radius:14px;
+    padding-inline:18px;
+    font-size:11.5px;
+  }
+  .hero-actions .btn-primary{
+    box-shadow:0 12px 28px rgba(174,77,35,.22);
+  }
+  .hero-actions .btn-outline{
+    background:rgba(5,9,12,.46);
+    backdrop-filter:blur(10px);
+  }
+  .form-grid .btn{
+    width:100%;
+    min-height:54px;
+  }
+  .section-header .btn,
+  .cta-panel .btn{
+    min-height:52px;
+  }
+}
+
+@media(max-width:420px){
+  .site-header .nav-shell{
+    padding:8px 10px 8px 12px;
+  }
+  .site-header .brand img{
+    width:122px;
+  }
+  .site-header .menu-toggle{
+    width:42px;
+    height:42px;
+  }
+  .mobile-bar a{
+    min-height:46px;
+    padding-inline:10px;
+    font-size:10px;
+  }
+  .mobile-bar a svg{
+    width:18px!important;
+    height:18px!important;
+    flex-basis:18px!important;
+  }
+}
