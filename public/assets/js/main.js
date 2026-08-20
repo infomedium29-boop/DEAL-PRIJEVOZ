@@ -20,8 +20,8 @@
   onScroll();
   addEventListener('scroll', onScroll, { passive: true });
 
-  menuBtn?.addEventListener('click', () => body.classList.toggle('menu-open'));
-  document.querySelectorAll('.nav-links a').forEach(a => a.addEventListener('click', () => body.classList.remove('menu-open')));
+  menuBtn?.addEventListener('click', () => { const open = body.classList.toggle('menu-open'); menuBtn.setAttribute('aria-expanded', String(open)); });
+  document.querySelectorAll('.nav-links a').forEach(a => a.addEventListener('click', () => { body.classList.remove('menu-open'); menuBtn?.setAttribute('aria-expanded','false'); }));
 
   langToggle?.addEventListener('click', (e) => { e.stopPropagation(); lang.classList.toggle('open'); });
   document.addEventListener('click', () => lang?.classList.remove('open'));
@@ -29,8 +29,8 @@
   // Keep visitors on the same page when switching languages (all localized routes share the same slug structure).
   const currentParts = location.pathname.split('/').filter(Boolean);
   if (currentParts.length && ['hr','en','de','nl'].includes(currentParts[0])) {
-    document.querySelectorAll('.lang-menu a').forEach(a => {
-      const target = a.getAttribute('href').split('/').filter(Boolean)[0];
+    document.querySelectorAll('.lang-menu a, .mobile-languages a').forEach(a => {
+      const target = a.dataset.locale || a.getAttribute('href').split('/').filter(Boolean)[0];
       a.setAttribute('href', '/' + [target, ...currentParts.slice(1)].join('/') + (location.pathname.endsWith('/') ? '/' : ''));
     });
   }
