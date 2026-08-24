@@ -20,7 +20,7 @@
   onScroll();
   addEventListener('scroll', onScroll, { passive: true });
 
-  menuBtn?.addEventListener('click', () => { const open = body.classList.toggle('menu-open'); menuBtn.setAttribute('aria-expanded', String(open)); });
+  menuBtn?.addEventListener('click', () => { const open = body.classList.toggle('menu-open'); menuBtn.setAttribute('aria-expanded', String(open)); if (!open) closeSubmenus?.(); });
 
   const submenuToggles = [...document.querySelectorAll('.submenu-toggle')];
   const closeSubmenus = except => {
@@ -46,6 +46,8 @@
     closeSubmenus();
   }));
   document.addEventListener('click', e => { if (!e.target.closest('.nav-dropdown')) closeSubmenus(); });
+  document.addEventListener('click', e => { if (body.classList.contains('menu-open') && !e.target.closest('.nav-shell')) { body.classList.remove('menu-open'); menuBtn?.setAttribute('aria-expanded','false'); closeSubmenus(); } });
+  addEventListener('resize', () => { if (innerWidth > 900 && body.classList.contains('menu-open')) { body.classList.remove('menu-open'); menuBtn?.setAttribute('aria-expanded','false'); closeSubmenus(); } }, { passive:true });
   document.addEventListener('keydown', e => {
     if (e.key !== 'Escape') return;
     closeSubmenus();
@@ -97,8 +99,8 @@
       e.preventDefault();
       const status = form.querySelector('.form-status');
       const btn = form.querySelector('button[type="submit"]');
-      const original = btn.textContent;
-      btn.disabled = true; btn.textContent = '…';
+      const original = btn.innerHTML;
+      btn.disabled = true; btn.innerHTML = '<span aria-hidden="true">…</span>';
       status.className = 'form-status'; status.textContent = '';
       const payload = Object.fromEntries(new FormData(form));
       payload.page = location.href;
@@ -112,7 +114,7 @@
       } catch (err) {
         status.classList.add('err');
         status.textContent = form.dataset.error || 'Upit trenutačno nije moguće poslati. Nazovite nas ili pošaljite WhatsApp poruku.';
-      } finally { btn.disabled = false; btn.textContent = original; }
+      } finally { btn.disabled = false; btn.innerHTML = original; }
     });
   });
 
