@@ -1,4 +1,77 @@
-<!doctype html><html lang="hr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>DEAL Administracija</title><link rel="icon" href="/favicon.svg"><link rel="stylesheet" href="/assets/css/admin.css"></head><body>
-<div id="login" class="login-screen"><div class="login-card"><img src="/assets/images/logo.svg" alt="DEAL"><p>Administracija sadržaja</p><form id="login-form"><label>Lozinka</label><input id="password" type="password" autocomplete="current-password" required><button type="submit">Prijava</button><div id="login-status"></div></form></div></div>
-<div id="app" class="admin-app" hidden><aside class="sidebar"><img src="/assets/images/logo.svg" alt="DEAL"><nav><button data-view="dashboard" class="active">Nadzorna ploča</button><button data-view="settings">Postavke</button><button data-view="taxi">Taxi i transferi</button><button data-view="travel">Putovanja</button><button data-view="clean">Čišćenje</button><button data-view="drivers">Najam vozača</button><button data-view="fleet">Vozni park</button><button data-view="pages">Stranice</button><button data-view="inquiries">Upiti</button></nav><div class="side-foot"><a href="/hr/" target="_blank">Otvori web ↗</a><button id="logout">Odjava</button></div></aside><main class="main"><header class="admin-head"><div><span class="kicker">DEAL ADMINISTRACIJA</span><h1 id="view-title">Nadzorna ploča</h1></div><div class="head-actions"><span id="save-status"></span><button class="ghost" id="refresh">Osvježi</button><button class="primary" id="save">Spremi promjene</button></div></header><section id="workspace"></section></main></div>
-<script src="/assets/js/admin.js"></script></body></html>
+<!doctype html>
+<html lang="hr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>DEAL CMS</title>
+  <link rel="icon" href="/favicon.svg">
+  <link rel="stylesheet" href="/assets/css/admin.css">
+</head>
+<body>
+  <div id="login" class="login-screen">
+    <div class="login-card">
+      <img src="/assets/images/logo.svg" alt="DEAL">
+      <div class="login-badge">CMS</div>
+      <h1>Administracija sadržaja</h1>
+      <p>Uredite tekstove, usluge, fotografije, vozila i stranice bez izmjene koda.</p>
+      <form id="login-form">
+        <label for="password">Lozinka</label>
+        <input id="password" type="password" autocomplete="current-password" required>
+        <button type="submit">Prijavi se</button>
+        <div id="login-status" class="login-status" aria-live="polite"></div>
+      </form>
+    </div>
+  </div>
+
+  <div id="app" class="admin-app" hidden>
+    <aside id="sidebar" class="sidebar">
+      <div class="sidebar-brand">
+        <img src="/assets/images/logo.svg" alt="DEAL">
+        <button id="sidebar-close" class="icon-btn mobile-only" type="button" aria-label="Zatvori izbornik">×</button>
+      </div>
+      <nav>
+        <button data-view="dashboard" class="active">Nadzorna ploča</button>
+        <button data-view="home">Početna stranica</button>
+        <button data-view="divisions">Glavne usluge</button>
+        <div class="nav-divider">USLUGE I PODSTRANICE</div>
+        <button data-view="taxi">Taxi i transferi</button>
+        <button data-view="travel">Putovanja</button>
+        <button data-view="clean">Čišćenje</button>
+        <button data-view="drivers">Najam vozača</button>
+        <button data-view="fleet">Vozni park</button>
+        <div class="nav-divider">OSTALI SADRŽAJ</div>
+        <button data-view="about">O nama</button>
+        <button data-view="contact">Kontakt</button>
+        <button data-view="pages">Dodatne stranice</button>
+        <button data-view="legal">Privatnost i kolačići</button>
+        <button data-view="settings">Postavke</button>
+        <button data-view="inquiries">Upiti</button>
+      </nav>
+      <div class="side-foot">
+        <a href="/hr/" target="_blank" rel="noopener">Otvori web ↗</a>
+        <button id="logout" type="button">Odjava</button>
+      </div>
+    </aside>
+    <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+    <main class="main">
+      <header class="admin-head">
+        <div class="head-title">
+          <button id="sidebar-open" class="icon-btn mobile-only" type="button" aria-label="Otvori izbornik">☰</button>
+          <div><span class="kicker">DEAL CMS</span><h1 id="view-title">Nadzorna ploča</h1></div>
+        </div>
+        <div class="head-actions">
+          <span id="save-status" aria-live="polite"></span>
+          <button class="ghost" id="refresh" type="button">Osvježi</button>
+          <button class="primary" id="save" type="button" disabled>Spremi i objavi</button>
+        </div>
+      </header>
+      <section id="workspace"></section>
+    </main>
+  </div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="/assets/js/admin.js"></script>
+</body>
+</html>

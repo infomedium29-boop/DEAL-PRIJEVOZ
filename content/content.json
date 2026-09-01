@@ -461,6 +461,102 @@
         "en": "Private and business transfers, airports and long-distance routes — organised precisely, discreetly and without unnecessary waiting.",
         "de": "Private und geschäftliche Transfers, Flughäfen und Langstrecken — präzise, diskret und ohne unnötige Wartezeiten organisiert.",
         "nl": "Privé- en zakelijke transfers, luchthavens en lange afstanden — precies, discreet en zonder onnodig wachten georganiseerd."
+      },
+      "cta": {
+        "hr": {
+          "title": "Trebate pouzdan transfer?",
+          "text": "Pošaljite polazište, odredište, datum i vrijeme. Javit ćemo vam se s jasnim prijedlogom prijevoza.",
+          "button": "Zatraži transfer"
+        },
+        "en": {
+          "title": "Need a reliable transfer?",
+          "text": "Send us your pickup point, destination, date and time. We will reply with a clear transport proposal.",
+          "button": "Request a transfer"
+        },
+        "de": {
+          "title": "Benötigen Sie einen zuverlässigen Transfer?",
+          "text": "Senden Sie uns Abholort, Ziel, Datum und Uhrzeit. Wir melden uns mit einem klaren Vorschlag für Ihre Fahrt.",
+          "button": "Transfer anfragen"
+        },
+        "nl": {
+          "title": "Een betrouwbare transfer nodig?",
+          "text": "Stuur ons vertrekpunt, bestemming, datum en tijd. U ontvangt een duidelijk voorstel voor uw vervoer.",
+          "button": "Transfer aanvragen"
+        }
+      },
+      "highlights": {
+        "hr": [
+          [
+            "Let",
+            "Raspored prema letu"
+          ],
+          [
+            "Vrata–vrata",
+            "Izravna organizacija"
+          ],
+          [
+            "Poslovno",
+            "Diskretan prijevoz"
+          ],
+          [
+            "EU",
+            "Duge relacije"
+          ]
+        ],
+        "en": [
+          [
+            "Flight",
+            "Flight-based timing"
+          ],
+          [
+            "Door-to-door",
+            "Direct organisation"
+          ],
+          [
+            "Business",
+            "Discreet transport"
+          ],
+          [
+            "EU",
+            "Long-distance"
+          ]
+        ],
+        "de": [
+          [
+            "Flug",
+            "Nach Flugplan"
+          ],
+          [
+            "Tür–Tür",
+            "Direkte Organisation"
+          ],
+          [
+            "Business",
+            "Diskreter Transport"
+          ],
+          [
+            "EU",
+            "Langstrecken"
+          ]
+        ],
+        "nl": [
+          [
+            "Vlucht",
+            "Planning op vlucht"
+          ],
+          [
+            "Deur–deur",
+            "Direct georganiseerd"
+          ],
+          [
+            "Zakelijk",
+            "Discrete service"
+          ],
+          [
+            "EU",
+            "Lange afstand"
+          ]
+        ]
       }
     },
     {
@@ -479,6 +575,102 @@
         "en": "Day trips, multi-day journeys, coach travel and carefully selected European destinations.",
         "de": "Tages- und Mehrtagesreisen, Busreisen und sorgfältig ausgewählte europäische Ziele.",
         "nl": "Dagtrips, meerdaagse reizen, busreizen en zorgvuldig geselecteerde Europese bestemmingen."
+      },
+      "cta": {
+        "hr": {
+          "title": "Planirate putovanje ili izlet?",
+          "text": "Recite nam destinaciju, termin i broj putnika. Predložit ćemo organizaciju koja odgovara vašem planu.",
+          "button": "Pošalji upit za putovanje"
+        },
+        "en": {
+          "title": "Planning a trip or excursion?",
+          "text": "Tell us the destination, date and number of travellers. We will suggest an arrangement that fits your plan.",
+          "button": "Send a travel enquiry"
+        },
+        "de": {
+          "title": "Planen Sie eine Reise oder einen Ausflug?",
+          "text": "Nennen Sie uns Ziel, Termin und Personenzahl. Wir schlagen eine Organisation vor, die zu Ihrem Plan passt.",
+          "button": "Reiseanfrage senden"
+        },
+        "nl": {
+          "title": "Plant u een reis of excursie?",
+          "text": "Vertel ons de bestemming, datum en het aantal reizigers. Wij stellen een organisatie voor die bij uw plan past.",
+          "button": "Reisaanvraag versturen"
+        }
+      },
+      "highlights": {
+        "hr": [
+          [
+            "Privatno",
+            "Rute po mjeri"
+          ],
+          [
+            "Izleti",
+            "Jednodnevni i višednevni"
+          ],
+          [
+            "Grupe",
+            "Prilagođen kapacitet"
+          ],
+          [
+            "HR / EU",
+            "Regionalne destinacije"
+          ]
+        ],
+        "en": [
+          [
+            "Private",
+            "Tailored routes"
+          ],
+          [
+            "Trips",
+            "Day and multi-day"
+          ],
+          [
+            "Groups",
+            "Adapted capacity"
+          ],
+          [
+            "HR / EU",
+            "Regional destinations"
+          ]
+        ],
+        "de": [
+          [
+            "Privat",
+            "Individuelle Routen"
+          ],
+          [
+            "Ausflüge",
+            "Ein- und mehrtägig"
+          ],
+          [
+            "Gruppen",
+            "Passende Kapazität"
+          ],
+          [
+            "HR / EU",
+            "Regionale Ziele"
+          ]
+        ],
+        "nl": [
+          [
+            "Privé",
+            "Routes op maat"
+          ],
+          [
+            "Excursies",
+            "Dag- en meerdaags"
+          ],
+          [
+            "Groepen",
+            "Passende capaciteit"
+          ],
+          [
+            "HR / EU",
+            "Regionale bestemmingen"
+          ]
+        ]
       }
     },
     {
@@ -497,6 +689,102 @@
         "en": "Professional cleaning for apartments, villas, business spaces and properties where first impressions matter.",
         "de": "Professionelle Reinigung für Apartments, Villen, Geschäftsräume und Objekte, bei denen der erste Eindruck zählt.",
         "nl": "Professionele schoonmaak voor appartementen, villa's, bedrijfsruimten en locaties waar de eerste indruk telt."
+      },
+      "cta": {
+        "hr": {
+          "title": "Trebate profesionalno čišćenje?",
+          "text": "Navedite vrstu prostora, lokaciju i željeni termin. Javit ćemo vam se s konkretnim prijedlogom usluge.",
+          "button": "Zatraži čišćenje"
+        },
+        "en": {
+          "title": "Need professional cleaning?",
+          "text": "Send us the property type, location and preferred date. We will reply with a concrete service proposal.",
+          "button": "Request cleaning"
+        },
+        "de": {
+          "title": "Benötigen Sie professionelle Reinigung?",
+          "text": "Nennen Sie uns Objektart, Standort und Wunschtermin. Sie erhalten einen konkreten Vorschlag für die passende Leistung.",
+          "button": "Reinigung anfragen"
+        },
+        "nl": {
+          "title": "Professionele schoonmaak nodig?",
+          "text": "Stuur ons het type ruimte, de locatie en de gewenste datum. U ontvangt een concreet voorstel voor de dienst.",
+          "button": "Schoonmaak aanvragen"
+        }
+      },
+      "highlights": {
+        "hr": [
+          [
+            "Turnover",
+            "Apartmani i vile"
+          ],
+          [
+            "Poslovno",
+            "Redovito održavanje"
+          ],
+          [
+            "Termin",
+            "Prema rasporedu objekta"
+          ],
+          [
+            "Standard",
+            "Dogovoren opseg"
+          ]
+        ],
+        "en": [
+          [
+            "Turnover",
+            "Apartments and villas"
+          ],
+          [
+            "Business",
+            "Regular maintenance"
+          ],
+          [
+            "Timing",
+            "Around property schedule"
+          ],
+          [
+            "Standard",
+            "Agreed scope"
+          ]
+        ],
+        "de": [
+          [
+            "Turnover",
+            "Apartments und Villen"
+          ],
+          [
+            "Business",
+            "Regelmäßige Reinigung"
+          ],
+          [
+            "Termin",
+            "Nach Objektplan"
+          ],
+          [
+            "Standard",
+            "Vereinbarter Umfang"
+          ]
+        ],
+        "nl": [
+          [
+            "Turnover",
+            "Appartementen en villa’s"
+          ],
+          [
+            "Zakelijk",
+            "Regelmatig onderhoud"
+          ],
+          [
+            "Timing",
+            "Volgens objectplanning"
+          ],
+          [
+            "Standaard",
+            "Afgesproken omvang"
+          ]
+        ]
       }
     },
     {
@@ -515,6 +803,102 @@
         "en": "Reliable professional drivers when a company needs extra capacity, seasonal support or temporary cover without long-term commitment.",
         "de": "Zuverlässige Profifahrer für zusätzlichen Bedarf, Saisonspitzen oder Vertretungen ohne langfristige Bindung.",
         "nl": "Betrouwbare professionele chauffeurs voor extra capaciteit, seizoensondersteuning of tijdelijke vervanging zonder langetermijnverplichting."
+      },
+      "cta": {
+        "hr": {
+          "title": "Trebate dodatnog profesionalnog vozača?",
+          "text": "Pošaljite lokaciju, razdoblje angažmana i vrstu prijevoza. Provjerit ćemo dostupnost i predložiti rješenje.",
+          "button": "Zatraži vozača"
+        },
+        "en": {
+          "title": "Need an additional professional driver?",
+          "text": "Send us the location, engagement period and type of transport. We will check availability and propose a solution.",
+          "button": "Request a driver"
+        },
+        "de": {
+          "title": "Benötigen Sie einen zusätzlichen professionellen Fahrer?",
+          "text": "Senden Sie uns Standort, Einsatzzeitraum und Transportart. Wir prüfen die Verfügbarkeit und schlagen eine Lösung vor.",
+          "button": "Fahrer anfragen"
+        },
+        "nl": {
+          "title": "Een extra professionele chauffeur nodig?",
+          "text": "Stuur ons de locatie, inzetperiode en het type vervoer. Wij controleren de beschikbaarheid en stellen een oplossing voor.",
+          "button": "Chauffeur aanvragen"
+        }
+      },
+      "highlights": {
+        "hr": [
+          [
+            "B2B",
+            "Za tvrtke"
+          ],
+          [
+            "Sezona",
+            "Dodatni kapacitet"
+          ],
+          [
+            "Zamjena",
+            "Privremeni angažman"
+          ],
+          [
+            "Fleksibilno",
+            "Prema rasporedu"
+          ]
+        ],
+        "en": [
+          [
+            "B2B",
+            "For companies"
+          ],
+          [
+            "Season",
+            "Extra capacity"
+          ],
+          [
+            "Cover",
+            "Temporary replacement"
+          ],
+          [
+            "Flexible",
+            "Around your schedule"
+          ]
+        ],
+        "de": [
+          [
+            "B2B",
+            "Für Unternehmen"
+          ],
+          [
+            "Saison",
+            "Zusätzliche Kapazität"
+          ],
+          [
+            "Vertretung",
+            "Temporärer Einsatz"
+          ],
+          [
+            "Flexibel",
+            "Nach Zeitplan"
+          ]
+        ],
+        "nl": [
+          [
+            "B2B",
+            "Voor bedrijven"
+          ],
+          [
+            "Seizoen",
+            "Extra capaciteit"
+          ],
+          [
+            "Vervanging",
+            "Tijdelijke inzet"
+          ],
+          [
+            "Flexibel",
+            "Volgens planning"
+          ]
+        ]
       }
     }
   ],
@@ -541,6 +925,121 @@
           "en": "Airport transfers are organised around your flight, passenger count and luggage. We build in the right amount of time for a calm departure or arrival, without unnecessary stress.",
           "de": "Flughafentransfers planen wir nach Flug, Personenzahl und Gepäck. Wir kalkulieren ausreichend Zeit für eine ruhige An- oder Abreise ein.",
           "nl": "Luchthaventransfers plannen we rond uw vlucht, aantal passagiers en bagage. We voorzien voldoende tijd voor een ontspannen vertrek of aankomst."
+        },
+        "published": true,
+        "seoTitle": {},
+        "seoDescription": {},
+        "cta": {
+          "hr": {
+            "title": "Trebate transfer do ili od zračne luke?",
+            "text": "Pošaljite zračnu luku, adresu preuzimanja, datum, vrijeme i broj putnika. Organizirat ćemo transfer bez nepotrebnog čekanja.",
+            "button": "Zatraži aerodromski transfer"
+          },
+          "en": {
+            "title": "Need an airport transfer?",
+            "text": "Send us the airport, pickup address, date, time and number of passengers. We will organise the transfer without unnecessary waiting.",
+            "button": "Request airport transfer"
+          },
+          "de": {
+            "title": "Benötigen Sie einen Flughafentransfer?",
+            "text": "Senden Sie uns Flughafen, Abholadresse, Datum, Uhrzeit und Personenzahl. Wir organisieren den Transfer ohne unnötige Wartezeiten.",
+            "button": "Flughafentransfer anfragen"
+          },
+          "nl": {
+            "title": "Een luchthaventransfer nodig?",
+            "text": "Stuur ons de luchthaven, het ophaaladres, datum, tijd en aantal passagiers. Wij organiseren de transfer zonder onnodig wachten.",
+            "button": "Luchthaventransfer aanvragen"
+          }
+        },
+        "benefits": {
+          "hr": {
+            "title": "Transfer bez neizvjesnosti prije leta.",
+            "text": "Aerodromski prijevoz organiziramo oko stvarnog vremena polaska ili dolaska, broja putnika i količine prtljage.",
+            "items": [
+              [
+                "Raspored prema letu",
+                "Termin preuzimanja usklađujemo s letom i dogovorenim vremenom dolaska."
+              ],
+              [
+                "Prtljaga i kapacitet",
+                "Vozilo biramo prema broju putnika i stvarnoj količini prtljage."
+              ],
+              [
+                "Izravna ruta",
+                "Bez nepotrebnih zaustavljanja i improvizacije na dan putovanja."
+              ],
+              [
+                "Potvrđeni detalji",
+                "Vrijeme, lokaciju preuzimanja i kontakt potvrđujemo prije vožnje."
+              ]
+            ]
+          },
+          "en": {
+            "title": "An airport transfer without uncertainty.",
+            "text": "We organise the ride around the actual flight schedule, passenger count and luggage requirements.",
+            "items": [
+              [
+                "Flight-based timing",
+                "Pickup is coordinated with your flight and the agreed arrival time."
+              ],
+              [
+                "Luggage and capacity",
+                "The vehicle is selected for the real number of passengers and amount of luggage."
+              ],
+              [
+                "Direct route",
+                "No unnecessary stops or last-minute improvisation on travel day."
+              ],
+              [
+                "Confirmed details",
+                "Pickup time, location and contact details are confirmed before the ride."
+              ]
+            ]
+          },
+          "de": {
+            "title": "Flughafentransfer ohne Unsicherheit.",
+            "text": "Wir organisieren die Fahrt nach tatsächlicher Flugzeit, Personenzahl und Gepäckbedarf.",
+            "items": [
+              [
+                "Am Flugplan orientiert",
+                "Die Abholzeit wird auf den Flug und die vereinbarte Ankunft abgestimmt."
+              ],
+              [
+                "Gepäck und Kapazität",
+                "Das Fahrzeug wählen wir nach Personenzahl und tatsächlichem Gepäckvolumen."
+              ],
+              [
+                "Direkte Strecke",
+                "Keine unnötigen Stopps und keine Improvisation am Reisetag."
+              ],
+              [
+                "Bestätigte Details",
+                "Zeit, Abholort und Kontakt werden vor der Fahrt eindeutig bestätigt."
+              ]
+            ]
+          },
+          "nl": {
+            "title": "Luchthaventransfer zonder onzekerheid.",
+            "text": "Wij organiseren de rit rond de werkelijke vluchtinformatie, het aantal passagiers en de bagage.",
+            "items": [
+              [
+                "Timing op basis van de vlucht",
+                "De ophaaltijd wordt afgestemd op de vlucht en het afgesproken aankomstmoment."
+              ],
+              [
+                "Bagage en capaciteit",
+                "Het voertuig wordt gekozen op basis van passagiers en de werkelijke hoeveelheid bagage."
+              ],
+              [
+                "Directe route",
+                "Geen onnodige stops of improvisatie op de reisdag."
+              ],
+              [
+                "Bevestigde details",
+                "Tijd, ophaallocatie en contactgegevens worden vooraf bevestigd."
+              ]
+            ]
+          }
         }
       },
       {
@@ -564,6 +1063,121 @@
           "en": "Business transfers focus on timing, immaculate vehicles and frictionless communication. We can handle a single ride or an entire schedule for guests and teams.",
           "de": "Bei Geschäftstransfers stehen Pünktlichkeit, gepflegte Fahrzeuge und reibungslose Kommunikation im Mittelpunkt.",
           "nl": "Zakelijke transfers draaien om stiptheid, verzorgde voertuigen en communicatie zonder frictie."
+        },
+        "published": true,
+        "seoTitle": {},
+        "seoDescription": {},
+        "cta": {
+          "hr": {
+            "title": "Organizirate poslovni prijevoz?",
+            "text": "Pošaljite raspored, lokacije i broj putnika. Pripremit ćemo diskretan i precizno organiziran poslovni transfer.",
+            "button": "Zatraži poslovni transfer"
+          },
+          "en": {
+            "title": "Organising business transport?",
+            "text": "Send us the schedule, locations and number of passengers. We will prepare a discreet and precisely organised business transfer.",
+            "button": "Request business transfer"
+          },
+          "de": {
+            "title": "Organisieren Sie einen Geschäftstransfer?",
+            "text": "Senden Sie uns Zeitplan, Orte und Personenzahl. Wir planen einen diskreten und präzise abgestimmten Geschäftstransfer.",
+            "button": "Geschäftstransfer anfragen"
+          },
+          "nl": {
+            "title": "Zakelijk vervoer organiseren?",
+            "text": "Stuur ons het schema, de locaties en het aantal passagiers. Wij plannen een discrete en nauwkeurig georganiseerde zakelijke transfer.",
+            "button": "Zakelijke transfer aanvragen"
+          }
+        },
+        "benefits": {
+          "hr": {
+            "title": "Poslovni prijevoz koji poštuje raspored.",
+            "text": "Kad su sastanci, gosti i događanja vremenski precizni, prijevoz mora biti jednako organiziran.",
+            "items": [
+              [
+                "Točnost dolaska",
+                "Vožnju planiramo prema rasporedu sastanaka, letova i događanja."
+              ],
+              [
+                "Diskretan pristup",
+                "Profesionalna komunikacija i nenametljiva usluga za goste, partnere i timove."
+              ],
+              [
+                "Više lokacija",
+                "Možemo povezati više preuzimanja, hotela, ureda i lokacija u jedan raspored."
+              ],
+              [
+                "Uredna vozila",
+                "Vozilo i kapacitet biramo prema broju putnika i razini usluge."
+              ]
+            ]
+          },
+          "en": {
+            "title": "Business transport that respects the schedule.",
+            "text": "When meetings, guests and events run on precise timing, the transport needs the same level of organisation.",
+            "items": [
+              [
+                "On-time arrivals",
+                "Trips are planned around meetings, flights and event schedules."
+              ],
+              [
+                "Discreet service",
+                "Professional, unobtrusive communication for guests, partners and teams."
+              ],
+              [
+                "Multiple locations",
+                "Hotels, offices, venues and several pickup points can be coordinated in one schedule."
+              ],
+              [
+                "Presentable vehicles",
+                "Vehicle and capacity are selected according to passenger count and service level."
+              ]
+            ]
+          },
+          "de": {
+            "title": "Geschäftstransfer, der den Zeitplan respektiert.",
+            "text": "Wenn Termine, Gäste und Veranstaltungen exakt getaktet sind, muss der Transport ebenso organisiert sein.",
+            "items": [
+              [
+                "Pünktliche Planung",
+                "Fahrten werden auf Meetings, Flüge und Veranstaltungszeiten abgestimmt."
+              ],
+              [
+                "Diskreter Service",
+                "Professionelle und zurückhaltende Kommunikation für Gäste, Partner und Teams."
+              ],
+              [
+                "Mehrere Standorte",
+                "Hotels, Büros, Veranstaltungsorte und mehrere Abholpunkte können in einem Ablauf verbunden werden."
+              ],
+              [
+                "Gepflegte Fahrzeuge",
+                "Fahrzeug und Kapazität richten sich nach Personenzahl und gewünschtem Serviceniveau."
+              ]
+            ]
+          },
+          "nl": {
+            "title": "Zakelijk vervoer dat het schema respecteert.",
+            "text": "Wanneer afspraken, gasten en evenementen strak gepland zijn, moet het vervoer net zo georganiseerd zijn.",
+            "items": [
+              [
+                "Stipt gepland",
+                "Ritten worden afgestemd op afspraken, vluchten en evenementtijden."
+              ],
+              [
+                "Discrete service",
+                "Professionele en terughoudende communicatie voor gasten, partners en teams."
+              ],
+              [
+                "Meerdere locaties",
+                "Hotels, kantoren, evenementenlocaties en meerdere ophaalpunten kunnen in één planning worden verbonden."
+              ],
+              [
+                "Verzorgde voertuigen",
+                "Voertuig en capaciteit worden afgestemd op passagiersaantal en gewenst serviceniveau."
+              ]
+            ]
+          }
         }
       },
       {
@@ -587,6 +1201,121 @@
           "en": "Long-distance travel is more than mileage. Departure time, breaks, borders and vehicle choice are planned so the trip remains comfortable and predictable door to door.",
           "de": "Langstrecken sind mehr als Kilometer. Abfahrt, Pausen, Grenzen und Fahrzeugwahl werden so geplant, dass die Reise angenehm und planbar bleibt.",
           "nl": "Lange ritten zijn meer dan kilometers. Vertrektijd, pauzes, grenzen en voertuigkeuze worden gepland voor een comfortabele reis van deur tot deur."
+        },
+        "published": true,
+        "seoTitle": {},
+        "seoDescription": {},
+        "cta": {
+          "hr": {
+            "title": "Trebate privatni transfer na dužoj relaciji?",
+            "text": "Navedite polazište, odredište, datum i broj putnika. Javit ćemo vam se s prijedlogom rute i organizacije prijevoza.",
+            "button": "Zatraži transfer na dugu relaciju"
+          },
+          "en": {
+            "title": "Need a private long-distance transfer?",
+            "text": "Send us the departure point, destination, date and number of passengers. We will reply with a route and transport proposal.",
+            "button": "Request long-distance transfer"
+          },
+          "de": {
+            "title": "Benötigen Sie einen privaten Langstreckentransfer?",
+            "text": "Nennen Sie uns Start, Ziel, Datum und Personenzahl. Wir melden uns mit einem Vorschlag für Route und Ablauf.",
+            "button": "Langstreckentransfer anfragen"
+          },
+          "nl": {
+            "title": "Een privétransfer over lange afstand nodig?",
+            "text": "Geef vertrekpunt, bestemming, datum en aantal passagiers door. U ontvangt een voorstel voor route en organisatie.",
+            "button": "Langeafstandstransfer aanvragen"
+          }
+        },
+        "benefits": {
+          "hr": {
+            "title": "Duga relacija, unaprijed složen plan.",
+            "text": "Kod duljih vožnji važni su ruta, vrijeme, pauze i udobnost — ne samo broj kilometara.",
+            "items": [
+              [
+                "Planirana ruta",
+                "Polazak, granice, cestovne uvjete i predviđene pauze uzimamo u obzir prije puta."
+              ],
+              [
+                "Udobnost na putu",
+                "Vozilo biramo prema broju putnika, prtljazi i trajanju vožnje."
+              ],
+              [
+                "Od vrata do vrata",
+                "Preuzimanje i dolazak organiziramo bez nepotrebnih presjedanja."
+              ],
+              [
+                "Hrvatska i Europa",
+                "Duge relacije organiziramo iz Istre prema Hrvatskoj i europskim destinacijama."
+              ]
+            ]
+          },
+          "en": {
+            "title": "Long-distance travel with the plan set in advance.",
+            "text": "On longer journeys, route, timing, breaks and comfort matter just as much as distance.",
+            "items": [
+              [
+                "Planned route",
+                "Departure time, borders, road conditions and breaks are considered before the trip."
+              ],
+              [
+                "Comfort for the journey",
+                "Vehicle choice reflects passenger count, luggage and travel duration."
+              ],
+              [
+                "Door-to-door",
+                "Pickup and arrival are organised without unnecessary transfers."
+              ],
+              [
+                "Croatia and Europe",
+                "Long-distance transfers run from Istria to destinations across Croatia and Europe."
+              ]
+            ]
+          },
+          "de": {
+            "title": "Langstrecke mit einem Plan, der vorher steht.",
+            "text": "Bei längeren Fahrten zählen Route, Zeit, Pausen und Komfort genauso wie die Kilometer.",
+            "items": [
+              [
+                "Geplante Route",
+                "Abfahrt, Grenzen, Straßenbedingungen und Pausen werden vor der Fahrt berücksichtigt."
+              ],
+              [
+                "Komfort unterwegs",
+                "Das Fahrzeug wird nach Personenzahl, Gepäck und Fahrtdauer gewählt."
+              ],
+              [
+                "Von Tür zu Tür",
+                "Abholung und Ankunft werden ohne unnötiges Umsteigen organisiert."
+              ],
+              [
+                "Kroatien und Europa",
+                "Langstrecken führen von Istrien zu Zielen in Kroatien und ganz Europa."
+              ]
+            ]
+          },
+          "nl": {
+            "title": "Lange afstand met een plan dat vooraf staat.",
+            "text": "Bij langere ritten zijn route, timing, pauzes en comfort net zo belangrijk als het aantal kilometers.",
+            "items": [
+              [
+                "Geplande route",
+                "Vertrektijd, grenzen, wegomstandigheden en pauzes worden vooraf meegenomen."
+              ],
+              [
+                "Comfort onderweg",
+                "Het voertuig wordt gekozen op basis van passagiers, bagage en reisduur."
+              ],
+              [
+                "Van deur tot deur",
+                "Ophalen en aankomst worden zonder onnodige overstappen georganiseerd."
+              ],
+              [
+                "Kroatië en Europa",
+                "Langeafstandstransfers vertrekken vanuit Istrië naar bestemmingen in Kroatië en Europa."
+              ]
+            ]
+          }
         }
       }
     ],
@@ -612,6 +1341,121 @@
           "en": "The route follows your starting point, interests and pace. The goal is not to collect stops but to leave enough time for the place, lunch, photos and moments without rushing.",
           "de": "Die Route richtet sich nach Startpunkt, Interessen und Tempo. Ziel ist nicht die maximale Zahl an Stopps, sondern echte Zeit für Ort, Essen und Erlebnisse.",
           "nl": "De route volgt uw vertrekpunt, interesses en tempo. Niet zoveel mogelijk stops, maar genoeg tijd voor de plek, lunch, foto's en momenten zonder haast."
+        },
+        "published": true,
+        "seoTitle": {},
+        "seoDescription": {},
+        "cta": {
+          "hr": {
+            "title": "Želite istražiti Istru po svom ritmu?",
+            "text": "Recite nam datum, broj putnika i mjesta koja želite posjetiti. Složit ćemo privatni dan bez žurbe i nepotrebnih stajanja.",
+            "button": "Pošalji upit za Istru"
+          },
+          "en": {
+            "title": "Want to explore Istria at your own pace?",
+            "text": "Tell us the date, number of travellers and places you would like to visit. We will shape a private day without rushing.",
+            "button": "Enquire about Istria"
+          },
+          "de": {
+            "title": "Möchten Sie Istrien in Ihrem eigenen Tempo erleben?",
+            "text": "Nennen Sie uns Datum, Personenzahl und Wunschorte. Wir planen einen privaten Tag ohne Hektik und unnötige Stopps.",
+            "button": "Istrien anfragen"
+          },
+          "nl": {
+            "title": "Istrië op uw eigen tempo ontdekken?",
+            "text": "Vertel ons de datum, het aantal reizigers en de plaatsen die u wilt bezoeken. Wij stellen een privé-dag zonder haast samen.",
+            "button": "Istrië aanvragen"
+          }
+        },
+        "benefits": {
+          "hr": {
+            "title": "Privatni dan bez utrke s rasporedom.",
+            "text": "Istru ne pretvaramo u popis stanica. Rutu gradimo prema interesima, tempu i vremenu koje želite provesti na svakom mjestu.",
+            "items": [
+              [
+                "Ruta po interesima",
+                "Obala, mali gradovi, gastronomija ili kombinacija — dan prilagođavamo vašoj grupi."
+              ],
+              [
+                "Tempo bez žurbe",
+                "Ostavljamo dovoljno vremena za ručak, šetnju, fotografiju i spontano zadržavanje."
+              ],
+              [
+                "Privatni prijevoz",
+                "Vozilo i polazište prilagođavamo broju putnika i lokaciji smještaja."
+              ],
+              [
+                "Dogovor prije polaska",
+                "Rutu, okvirno trajanje i važne detalje potvrđujemo prije dana izleta."
+              ]
+            ]
+          },
+          "en": {
+            "title": "A private day without racing the clock.",
+            "text": "We do not turn Istria into a checklist. The route follows your interests, pace and the time you want to spend in each place.",
+            "items": [
+              [
+                "Route around your interests",
+                "Coast, hill towns, food or a combination — the day is shaped around your group."
+              ],
+              [
+                "A comfortable pace",
+                "There is time for lunch, a walk, photos and spontaneous stops."
+              ],
+              [
+                "Private transport",
+                "Vehicle and pickup point are adapted to group size and accommodation location."
+              ],
+              [
+                "Agreed before departure",
+                "Route, approximate duration and important details are confirmed in advance."
+              ]
+            ]
+          },
+          "de": {
+            "title": "Ein privater Tag ohne Zeitdruck.",
+            "text": "Istrien wird nicht zur Liste von Stopps. Die Route richtet sich nach Interessen, Tempo und gewünschter Aufenthaltsdauer.",
+            "items": [
+              [
+                "Route nach Ihren Interessen",
+                "Küste, kleine Städte, Kulinarik oder eine Kombination — der Tag wird auf Ihre Gruppe abgestimmt."
+              ],
+              [
+                "Tempo ohne Hektik",
+                "Es bleibt Zeit für Mittagessen, Spaziergänge, Fotos und spontane Stopps."
+              ],
+              [
+                "Privater Transport",
+                "Fahrzeug und Abholort richten sich nach Gruppengröße und Unterkunft."
+              ],
+              [
+                "Vorher abgestimmt",
+                "Route, ungefähre Dauer und wichtige Details werden vor Abfahrt bestätigt."
+              ]
+            ]
+          },
+          "nl": {
+            "title": "Een privédag zonder tegen de klok te racen.",
+            "text": "We maken van Istrië geen checklist. De route volgt uw interesses, tempo en de tijd die u op elke plek wilt doorbrengen.",
+            "items": [
+              [
+                "Route op basis van interesse",
+                "Kust, kleine steden, gastronomie of een combinatie — de dag wordt rond uw groep opgebouwd."
+              ],
+              [
+                "Tempo zonder haast",
+                "Er is tijd voor lunch, een wandeling, foto’s en spontane stops."
+              ],
+              [
+                "Privévervoer",
+                "Voertuig en ophaallocatie worden aangepast aan groepsgrootte en verblijfplaats."
+              ],
+              [
+                "Voor vertrek afgestemd",
+                "Route, globale duur en belangrijke details worden vooraf bevestigd."
+              ]
+            ]
+          }
         }
       },
       {
@@ -635,6 +1479,121 @@
           "en": "Departure, breaks and park time are planned so the day never feels like a race against the timetable. Private groups can customise the itinerary further.",
           "de": "Abfahrt, Pausen und Parkzeit werden so geplant, dass der Tag nicht zum Wettlauf mit dem Zeitplan wird.",
           "nl": "Vertrek, pauzes en tijd in het park worden zo gepland dat de dag niet voelt als een race tegen de klok."
+        },
+        "published": true,
+        "seoTitle": {},
+        "seoDescription": {},
+        "cta": {
+          "hr": {
+            "title": "Planirate izlet na Plitvice i Rastoke?",
+            "text": "Pošaljite datum polaska i broj putnika. Javit ćemo vam se s detaljima organizacije i prijedlogom itinerara.",
+            "button": "Pošalji upit za izlet"
+          },
+          "en": {
+            "title": "Planning a Plitvice & Rastoke day trip?",
+            "text": "Send us your preferred date and number of travellers. We will reply with organisation details and a suggested itinerary.",
+            "button": "Enquire about this trip"
+          },
+          "de": {
+            "title": "Planen Sie einen Ausflug zu Plitvice und Rastoke?",
+            "text": "Senden Sie uns Wunschtermin und Personenzahl. Wir melden uns mit Details zur Organisation und einem Routenvorschlag.",
+            "button": "Ausflug anfragen"
+          },
+          "nl": {
+            "title": "Plant u een dagtrip naar Plitvice en Rastoke?",
+            "text": "Stuur ons uw gewenste datum en het aantal reizigers. U ontvangt details over de organisatie en een routevoorstel.",
+            "button": "Deze excursie aanvragen"
+          }
+        },
+        "benefits": {
+          "hr": {
+            "title": "Dan koji ostavlja vrijeme za doživljaj.",
+            "text": "Polazak, park, Rastoke i povratak slažemo tako da izlet ne postane utrka s vremenom.",
+            "items": [
+              [
+                "Pametno vrijeme polaska",
+                "Termin prilagođavamo sezoni, udaljenosti i očekivanoj gužvi."
+              ],
+              [
+                "Dovoljno vremena u parku",
+                "Plan ostavlja prostor za obilazak bez nepotrebnog forsiranja tempa."
+              ],
+              [
+                "Rastoke kao dio rute",
+                "Zaustavljanje uključujemo smisleno, bez pretvaranja dana u niz brzih stanica."
+              ],
+              [
+                "Prilagodba grupi",
+                "Kod privatnih grupa raspored možemo dodatno prilagoditi interesima i tempu."
+              ]
+            ]
+          },
+          "en": {
+            "title": "A day with enough time to experience it.",
+            "text": "Departure, the park, Rastoke and the return are planned so the excursion never feels like a race.",
+            "items": [
+              [
+                "Smart departure time",
+                "Timing reflects the season, distance and expected visitor levels."
+              ],
+              [
+                "Enough time in the park",
+                "The itinerary leaves room to explore without forcing the pace."
+              ],
+              [
+                "Rastoke in context",
+                "The stop is built into the day naturally rather than becoming another rushed checkpoint."
+              ],
+              [
+                "Adapted for private groups",
+                "Private itineraries can be adjusted further to interests and pace."
+              ]
+            ]
+          },
+          "de": {
+            "title": "Ein Tag mit genug Zeit für das Erlebnis.",
+            "text": "Abfahrt, Park, Rastoke und Rückfahrt werden so geplant, dass der Ausflug nicht zum Wettlauf gegen die Uhr wird.",
+            "items": [
+              [
+                "Sinnvolle Abfahrtszeit",
+                "Die Planung berücksichtigt Saison, Entfernung und erwarteten Besucherandrang."
+              ],
+              [
+                "Genug Zeit im Park",
+                "Der Ablauf lässt Raum für die Besichtigung ohne unnötigen Zeitdruck."
+              ],
+              [
+                "Rastoke sinnvoll eingebunden",
+                "Der Stopp ergänzt den Tag, statt nur ein weiterer kurzer Programmpunkt zu sein."
+              ],
+              [
+                "Anpassung für Privatgruppen",
+                "Private Gruppen können Route und Tempo zusätzlich anpassen."
+              ]
+            ]
+          },
+          "nl": {
+            "title": "Een dag met genoeg tijd voor de ervaring.",
+            "text": "Vertrek, het park, Rastoke en de terugrit worden zo gepland dat de excursie geen race tegen de tijd wordt.",
+            "items": [
+              [
+                "Slim vertrekmoment",
+                "Planning houdt rekening met seizoen, afstand en verwachte drukte."
+              ],
+              [
+                "Genoeg tijd in het park",
+                "Het programma laat ruimte om te kijken zonder het tempo te forceren."
+              ],
+              [
+                "Rastoke logisch in de route",
+                "De stop past natuurlijk in de dag in plaats van een extra haastig punt te worden."
+              ],
+              [
+                "Aanpasbaar voor privégroepen",
+                "Route en tempo kunnen voor privégroepen verder worden afgestemd."
+              ]
+            ]
+          }
         }
       },
       {
@@ -658,6 +1617,121 @@
           "en": "The schedule follows the season and traffic. The objective is simple: secure logistics, a clear return plan and enough free time in the city.",
           "de": "Der Ablauf berücksichtigt Saison und Verkehr: sichere Logistik, klare Rückfahrt und ausreichend freie Zeit in der Stadt.",
           "nl": "De planning volgt seizoen en verkeer: veilige logistiek, een helder terugkeermoment en genoeg vrije tijd in de stad."
+        },
+        "published": true,
+        "seoTitle": {},
+        "seoDescription": {},
+        "cta": {
+          "hr": {
+            "title": "Želite provesti dan u Veneciji?",
+            "text": "Pošaljite željeni datum i broj putnika. Predložit ćemo organizirani polazak i plan koji ostavlja dovoljno vremena za grad.",
+            "button": "Pošalji upit za Veneciju"
+          },
+          "en": {
+            "title": "Would you like to spend a day in Venice?",
+            "text": "Send us your preferred date and number of travellers. We will suggest an organised departure with enough time to enjoy the city.",
+            "button": "Enquire about Venice"
+          },
+          "de": {
+            "title": "Möchten Sie einen Tag in Venedig verbringen?",
+            "text": "Senden Sie uns Wunschtermin und Personenzahl. Wir schlagen eine organisierte Abfahrt mit ausreichend Zeit in der Stadt vor.",
+            "button": "Venedig anfragen"
+          },
+          "nl": {
+            "title": "Een dag in Venetië beleven?",
+            "text": "Stuur ons uw gewenste datum en het aantal reizigers. Wij stellen een georganiseerde rit voor met voldoende tijd in de stad.",
+            "button": "Venetië aanvragen"
+          }
+        },
+        "benefits": {
+          "hr": {
+            "title": "Venecija bez logističkog stresa.",
+            "text": "Cilj je jednostavan: jasan polazak, siguran povratak i dovoljno slobodnog vremena da grad doživite svojim tempom.",
+            "items": [
+              [
+                "Jasan plan polaska",
+                "Vrijeme i mjesto ukrcaja potvrđujemo unaprijed."
+              ],
+              [
+                "Sezona i promet",
+                "Raspored prilagođavamo uvjetima na cesti, granici i sezonskim gužvama."
+              ],
+              [
+                "Vrijeme u gradu",
+                "Organizacija ostavlja dovoljno prostora za samostalan obilazak i pauze."
+              ],
+              [
+                "Dogovoren povratak",
+                "Lokacija i vrijeme povratka definirani su jasno prije ulaska u grad."
+              ]
+            ]
+          },
+          "en": {
+            "title": "Venice without the logistics stress.",
+            "text": "The aim is simple: a clear departure, a reliable return and enough free time to experience the city at your pace.",
+            "items": [
+              [
+                "Clear departure plan",
+                "Pickup time and location are confirmed in advance."
+              ],
+              [
+                "Season and traffic",
+                "The schedule reflects road conditions, borders and seasonal congestion."
+              ],
+              [
+                "Time in the city",
+                "The plan leaves enough room for independent sightseeing and breaks."
+              ],
+              [
+                "Defined return point",
+                "Meeting place and return time are clear before you enter the city."
+              ]
+            ]
+          },
+          "de": {
+            "title": "Venedig ohne Logistikstress.",
+            "text": "Klare Abfahrt, verlässliche Rückfahrt und genügend freie Zeit in der Stadt — darauf ist der Tag ausgerichtet.",
+            "items": [
+              [
+                "Klarer Abfahrtsplan",
+                "Zeit und Treffpunkt werden im Voraus bestätigt."
+              ],
+              [
+                "Saison und Verkehr",
+                "Der Ablauf berücksichtigt Verkehr, Grenzen und saisonale Belastung."
+              ],
+              [
+                "Zeit in der Stadt",
+                "Es bleibt genügend Raum für individuelle Besichtigung und Pausen."
+              ],
+              [
+                "Definierte Rückfahrt",
+                "Treffpunkt und Rückfahrtszeit stehen fest, bevor Sie die Stadt erkunden."
+              ]
+            ]
+          },
+          "nl": {
+            "title": "Venetië zonder logistieke stress.",
+            "text": "Duidelijk vertrek, betrouwbare terugrit en voldoende vrije tijd in de stad vormen de basis van de dag.",
+            "items": [
+              [
+                "Duidelijk vertrekplan",
+                "Tijd en ontmoetingspunt worden vooraf bevestigd."
+              ],
+              [
+                "Seizoen en verkeer",
+                "De planning houdt rekening met verkeer, grenzen en seizoensdrukte."
+              ],
+              [
+                "Tijd in de stad",
+                "Er blijft voldoende ruimte voor zelfstandig bezoek en pauzes."
+              ],
+              [
+                "Vast terugkeerpunt",
+                "Ontmoetingsplek en terugkeertijd zijn duidelijk voordat u de stad ingaat."
+              ]
+            ]
+          }
         }
       }
     ],
@@ -683,6 +1757,121 @@
           "en": "In hospitality, timing and consistency matter as much as cleanliness. Scope, timing and quality checks are agreed so the property is ready when the guest arrives.",
           "de": "In der Vermietung sind Timing und Konstanz genauso wichtig wie Sauberkeit. Umfang, Zeitpunkt und Qualitätskontrolle werden klar vereinbart.",
           "nl": "Bij verhuur zijn timing en consistentie net zo belangrijk als schoonmaak. Omvang, planning en kwaliteitscontrole worden duidelijk afgesproken."
+        },
+        "published": true,
+        "seoTitle": {},
+        "seoDescription": {},
+        "cta": {
+          "hr": {
+            "title": "Trebate čišćenje apartmana ili vile?",
+            "text": "Pošaljite lokaciju, veličinu objekta, termin i vrstu čišćenja. Javit ćemo vam se s konkretnim prijedlogom.",
+            "button": "Zatraži čišćenje objekta"
+          },
+          "en": {
+            "title": "Need cleaning for an apartment or villa?",
+            "text": "Send us the location, property size, preferred date and type of cleaning. We will reply with a concrete proposal.",
+            "button": "Request property cleaning"
+          },
+          "de": {
+            "title": "Benötigen Sie Reinigung für Apartment oder Villa?",
+            "text": "Senden Sie uns Standort, Objektgröße, Termin und Art der Reinigung. Sie erhalten einen konkreten Vorschlag.",
+            "button": "Objektreinigung anfragen"
+          },
+          "nl": {
+            "title": "Schoonmaak voor appartement of villa nodig?",
+            "text": "Stuur ons locatie, grootte van het object, gewenste datum en type schoonmaak. U ontvangt een concreet voorstel.",
+            "button": "Objectreiniging aanvragen"
+          }
+        },
+        "benefits": {
+          "hr": {
+            "title": "Smještaj spreman prije dolaska gosta.",
+            "text": "Kod apartmana i vila čistoća mora biti dosljedna, ali i vremenski precizna između odlaska i novog dolaska.",
+            "items": [
+              [
+                "Turnover po terminu",
+                "Čišćenje usklađujemo s check-outom, check-inom i raspoloživim vremenom."
+              ],
+              [
+                "Dogovoren standard",
+                "Opseg čišćenja definiramo prema objektu, broju prostorija i očekivanoj razini pripreme."
+              ],
+              [
+                "Pažnja na detalje",
+                "Kupaonice, kuhinja, površine i ključne točke prolaze dosljednu završnu provjeru."
+              ],
+              [
+                "Sezonska fleksibilnost",
+                "Dinamiku možemo prilagoditi promjenama rezervacija i intenzivnijem periodu sezone."
+              ]
+            ]
+          },
+          "en": {
+            "title": "Accommodation ready before the next guest arrives.",
+            "text": "For apartments and villas, cleaning needs to be both consistent and precisely timed between departures and arrivals.",
+            "items": [
+              [
+                "Turnover timing",
+                "Cleaning is coordinated with check-out, check-in and the actual turnaround window."
+              ],
+              [
+                "Agreed standard",
+                "Scope is defined according to the property, number of rooms and expected level of preparation."
+              ],
+              [
+                "Attention to detail",
+                "Bathrooms, kitchen, surfaces and key touchpoints receive a consistent final check."
+              ],
+              [
+                "Seasonal flexibility",
+                "Frequency can adapt to booking changes and heavier periods in season."
+              ]
+            ]
+          },
+          "de": {
+            "title": "Die Unterkunft ist bereit, bevor der Gast ankommt.",
+            "text": "Bei Apartments und Villen muss Reinigung konstant und zwischen Abreise und neuer Ankunft präzise getaktet sein.",
+            "items": [
+              [
+                "Turnover nach Termin",
+                "Reinigung wird auf Check-out, Check-in und das verfügbare Zeitfenster abgestimmt."
+              ],
+              [
+                "Vereinbarter Standard",
+                "Umfang richtet sich nach Objekt, Raumanzahl und gewünschter Vorbereitung."
+              ],
+              [
+                "Blick fürs Detail",
+                "Bad, Küche, Oberflächen und wichtige Kontaktpunkte erhalten eine konsequente Abschlusskontrolle."
+              ],
+              [
+                "Saisonale Flexibilität",
+                "Rhythmus und Termine können an Buchungsänderungen und Hochsaison angepasst werden."
+              ]
+            ]
+          },
+          "nl": {
+            "title": "Accommodatie klaar vóór de volgende gast arriveert.",
+            "text": "Bij appartementen en villa’s moet schoonmaak zowel consistent als precies getimed zijn tussen vertrek en aankomst.",
+            "items": [
+              [
+                "Turnover op tijd",
+                "Schoonmaak wordt afgestemd op check-out, check-in en het beschikbare tijdsvenster."
+              ],
+              [
+                "Afgesproken standaard",
+                "Omvang wordt bepaald op basis van object, aantal ruimtes en gewenste voorbereiding."
+              ],
+              [
+                "Aandacht voor details",
+                "Badkamer, keuken, oppervlakken en belangrijke punten krijgen een consistente eindcontrole."
+              ],
+              [
+                "Flexibel in het seizoen",
+                "Frequentie en timing kunnen meegaan met boekingswijzigingen en drukke periodes."
+              ]
+            ]
+          }
         }
       },
       {
@@ -706,6 +1895,121 @@
           "en": "Timing and frequency follow your working hours. The goal is a visible result without disrupting operations or creating extra management work for your team.",
           "de": "Zeitpunkt und Rhythmus passen wir an Ihre Arbeitszeiten an. Das Ergebnis soll sichtbar sein, ohne den Betrieb zu stören.",
           "nl": "Tijdstip en frequentie sluiten aan op uw werktijden. Het resultaat moet zichtbaar zijn zonder uw operatie te verstoren."
+        },
+        "published": true,
+        "seoTitle": {},
+        "seoDescription": {},
+        "cta": {
+          "hr": {
+            "title": "Trebate održavanje poslovnog prostora?",
+            "text": "Navedite lokaciju, površinu, učestalost i željeni termin. Predložit ćemo model čišćenja prilagođen vašem poslovanju.",
+            "button": "Zatraži ponudu za čišćenje"
+          },
+          "en": {
+            "title": "Need cleaning for your business premises?",
+            "text": "Send us the location, floor area, frequency and preferred schedule. We will propose a cleaning model tailored to your business.",
+            "button": "Request a cleaning quote"
+          },
+          "de": {
+            "title": "Benötigen Sie Reinigung für Geschäftsräume?",
+            "text": "Nennen Sie uns Standort, Fläche, Häufigkeit und gewünschten Zeitplan. Wir schlagen ein passendes Reinigungskonzept vor.",
+            "button": "Reinigungsangebot anfragen"
+          },
+          "nl": {
+            "title": "Schoonmaak voor uw bedrijfsruimte nodig?",
+            "text": "Geef locatie, oppervlakte, frequentie en gewenst tijdschema door. Wij stellen een schoonmaakmodel voor dat bij uw bedrijf past.",
+            "button": "Schoonmaakofferte aanvragen"
+          }
+        },
+        "benefits": {
+          "hr": {
+            "title": "Čistoća koja ne prekida radni dan.",
+            "text": "Poslovni prostor mora biti uredan bez dodatnog opterećenja za zaposlenike i bez ometanja rada.",
+            "items": [
+              [
+                "Termin prema poslovanju",
+                "Čišćenje dogovaramo prije, poslije ili izvan najintenzivnijeg dijela radnog vremena."
+              ],
+              [
+                "Redovita dinamika",
+                "Učestalost prilagođavamo broju korisnika, površini i stvarnom opterećenju prostora."
+              ],
+              [
+                "Prioritetne zone",
+                "Ulazi, sanitarije, radne površine i zajednički prostori dobivaju jasno definiran standard."
+              ],
+              [
+                "Kontrola rezultata",
+                "Opseg i očekivani rezultat definiramo unaprijed kako bi usluga ostala dosljedna."
+              ]
+            ]
+          },
+          "en": {
+            "title": "Cleaning that does not interrupt the working day.",
+            "text": "A business space should stay presentable without creating extra work for the team or disrupting operations.",
+            "items": [
+              [
+                "Timing around operations",
+                "Cleaning can be scheduled before, after or outside the busiest working hours."
+              ],
+              [
+                "Regular frequency",
+                "Frequency is adjusted to footfall, floor area and actual use of the space."
+              ],
+              [
+                "Priority areas",
+                "Entrances, washrooms, work surfaces and shared spaces follow a defined standard."
+              ],
+              [
+                "Consistent result",
+                "Scope and expected outcome are agreed in advance for dependable delivery."
+              ]
+            ]
+          },
+          "de": {
+            "title": "Sauberkeit, die den Arbeitstag nicht unterbricht.",
+            "text": "Geschäftsräume bleiben gepflegt, ohne zusätzliche Belastung für das Team oder Störung des Betriebs.",
+            "items": [
+              [
+                "Termin nach Betriebsablauf",
+                "Reinigung kann vor, nach oder außerhalb der intensivsten Arbeitszeiten stattfinden."
+              ],
+              [
+                "Regelmäßiger Rhythmus",
+                "Häufigkeit richtet sich nach Nutzung, Fläche und tatsächlicher Belastung."
+              ],
+              [
+                "Prioritätsbereiche",
+                "Eingang, Sanitärbereiche, Arbeitsflächen und Gemeinschaftszonen folgen einem klaren Standard."
+              ],
+              [
+                "Konstantes Ergebnis",
+                "Umfang und erwartetes Resultat werden im Voraus definiert."
+              ]
+            ]
+          },
+          "nl": {
+            "title": "Schoonmaak die de werkdag niet onderbreekt.",
+            "text": "Een bedrijfsruimte blijft verzorgd zonder extra belasting voor medewerkers of verstoring van de werkzaamheden.",
+            "items": [
+              [
+                "Timing rond de bedrijfsvoering",
+                "Schoonmaak kan voor, na of buiten de drukste werkuren worden gepland."
+              ],
+              [
+                "Vaste frequentie",
+                "Frequentie wordt afgestemd op gebruik, oppervlakte en werkelijke belasting."
+              ],
+              [
+                "Prioriteitszones",
+                "Entree, sanitair, werkoppervlakken en gedeelde ruimtes krijgen een duidelijke standaard."
+              ],
+              [
+                "Consistent resultaat",
+                "Omvang en verwacht resultaat worden vooraf vastgelegd."
+              ]
+            ]
+          }
         }
       }
     ],
@@ -731,6 +2035,121 @@
           "en": "The objective is simple: connect vetted drivers with companies that actually need them. Applying does not mean accepting every job; availability and terms are confirmed before each engagement.",
           "de": "Ziel ist, geprüfte Fahrer mit Unternehmen zu verbinden, die sie konkret benötigen. Verfügbarkeit und Konditionen werden vor jedem Einsatz bestätigt.",
           "nl": "Het doel is betrouwbare chauffeurs te verbinden met bedrijven die ze echt nodig hebben. Beschikbaarheid en voorwaarden worden vooraf bevestigd."
+        },
+        "published": true,
+        "seoTitle": {},
+        "seoDescription": {},
+        "cta": {
+          "hr": {
+            "title": "Želite raditi kao DEAL vozač?",
+            "text": "Pošaljite osnovne podatke, kategorije vozačke dozvole, iskustvo i dostupnost. Javit ćemo vam se s informacijama o angažmanu.",
+            "button": "Prijavi se kao vozač"
+          },
+          "en": {
+            "title": "Want to work as a DEAL driver?",
+            "text": "Send us your basic details, driving licence categories, experience and availability. We will contact you with engagement information.",
+            "button": "Apply as a driver"
+          },
+          "de": {
+            "title": "Möchten Sie als DEAL Fahrer arbeiten?",
+            "text": "Senden Sie uns Ihre Basisdaten, Führerscheinklassen, Erfahrung und Verfügbarkeit. Wir melden uns mit Informationen zum Einsatz.",
+            "button": "Als Fahrer bewerben"
+          },
+          "nl": {
+            "title": "Wilt u als DEAL chauffeur werken?",
+            "text": "Stuur ons uw basisgegevens, rijbewijscategorieën, ervaring en beschikbaarheid. Wij nemen contact op met informatie over opdrachten.",
+            "button": "Solliciteren als chauffeur"
+          }
+        },
+        "benefits": {
+          "hr": {
+            "title": "Angažman koji odgovara vašoj dostupnosti.",
+            "text": "Prije svakog angažmana jasno definiramo posao, raspored i uvjete kako biste znali što prihvaćate.",
+            "items": [
+              [
+                "Uvjeti unaprijed",
+                "Vrsta angažmana, lokacija i očekivanja komuniciraju se prije potvrde."
+              ],
+              [
+                "Iskustvo i kategorije",
+                "Ponude usklađujemo s vašim vozačkim kategorijama i relevantnim iskustvom."
+              ],
+              [
+                "Dostupnost je važna",
+                "Sami potvrđujete odgovara li vam konkretan termin i trajanje angažmana."
+              ],
+              [
+                "Bez automatske obveze",
+                "Prijava u bazu ne znači obvezu prihvaćanja svakog posla."
+              ]
+            ]
+          },
+          "en": {
+            "title": "Assignments that fit your availability.",
+            "text": "Before every assignment, the job, schedule and conditions are defined clearly so you know what you are accepting.",
+            "items": [
+              [
+                "Conditions in advance",
+                "Type of assignment, location and expectations are shared before confirmation."
+              ],
+              [
+                "Experience and licences",
+                "Opportunities are matched to your licence categories and relevant experience."
+              ],
+              [
+                "Availability matters",
+                "You confirm whether the specific date and assignment duration suit you."
+              ],
+              [
+                "No automatic obligation",
+                "Joining the driver pool does not mean accepting every job offered."
+              ]
+            ]
+          },
+          "de": {
+            "title": "Einsätze, die zu Ihrer Verfügbarkeit passen.",
+            "text": "Vor jedem Einsatz werden Aufgabe, Zeitplan und Bedingungen klar definiert, damit Sie wissen, was Sie annehmen.",
+            "items": [
+              [
+                "Bedingungen im Voraus",
+                "Art des Einsatzes, Ort und Erwartungen werden vor Bestätigung kommuniziert."
+              ],
+              [
+                "Erfahrung und Klassen",
+                "Angebote werden auf Führerscheinklassen und relevante Erfahrung abgestimmt."
+              ],
+              [
+                "Verfügbarkeit entscheidet",
+                "Sie bestätigen selbst, ob Termin und Dauer für Sie passen."
+              ],
+              [
+                "Keine automatische Verpflichtung",
+                "Die Aufnahme in den Fahrerpool verpflichtet nicht zur Annahme jedes Einsatzes."
+              ]
+            ]
+          },
+          "nl": {
+            "title": "Opdrachten die bij uw beschikbaarheid passen.",
+            "text": "Voor elke opdracht worden werk, planning en voorwaarden duidelijk vastgelegd zodat u weet wat u accepteert.",
+            "items": [
+              [
+                "Voorwaarden vooraf",
+                "Type opdracht, locatie en verwachtingen worden voor bevestiging gedeeld."
+              ],
+              [
+                "Ervaring en rijbewijs",
+                "Opdrachten worden gekoppeld aan uw rijbewijscategorieën en relevante ervaring."
+              ],
+              [
+                "Beschikbaarheid telt",
+                "U bevestigt zelf of datum en duur van de opdracht passen."
+              ],
+              [
+                "Geen automatische verplichting",
+                "Opname in de chauffeurspool betekent niet dat u elke opdracht moet aannemen."
+              ]
+            ]
+          }
         }
       },
       {
@@ -754,6 +2173,121 @@
           "en": "Before proposing a driver we define licence category, experience, location, duration and schedule. The company receives a fit for the actual job, not simply the next available name.",
           "de": "Vor dem Vorschlag klären wir Führerscheinklasse, Erfahrung, Ort, Dauer und Zeitplan. So passt der Fahrer zur tatsächlichen Aufgabe.",
           "nl": "Vooraf bepalen we rijbewijscategorie, ervaring, locatie, duur en planning. Zo past de chauffeur bij de echte opdracht."
+        },
+        "published": true,
+        "seoTitle": {},
+        "seoDescription": {},
+        "cta": {
+          "hr": {
+            "title": "Trebate vozača za svoju tvrtku?",
+            "text": "Pošaljite lokaciju, razdoblje, vrstu vozila i opseg angažmana. Provjerit ćemo dostupne vozače i javiti vam se s prijedlogom.",
+            "button": "Zatraži vozača za tvrtku"
+          },
+          "en": {
+            "title": "Need a driver for your company?",
+            "text": "Send us the location, period, vehicle type and scope of engagement. We will check available drivers and reply with a proposal.",
+            "button": "Request a company driver"
+          },
+          "de": {
+            "title": "Benötigen Sie einen Fahrer für Ihr Unternehmen?",
+            "text": "Senden Sie uns Standort, Zeitraum, Fahrzeugart und Einsatzumfang. Wir prüfen verfügbare Fahrer und melden uns mit einem Vorschlag.",
+            "button": "Firmenfahrer anfragen"
+          },
+          "nl": {
+            "title": "Een chauffeur voor uw bedrijf nodig?",
+            "text": "Stuur ons locatie, periode, voertuigtype en omvang van de inzet. Wij controleren beschikbare chauffeurs en sturen een voorstel.",
+            "button": "Chauffeur voor bedrijf aanvragen"
+          }
+        },
+        "benefits": {
+          "hr": {
+            "title": "Vozač prema stvarnom opsegu posla.",
+            "text": "Ne šaljemo samo dostupno ime. Prvo definiramo vozilo, kategoriju, raspored i trajanje angažmana.",
+            "items": [
+              [
+                "Tražena kategorija",
+                "Vozača biramo prema tipu vozila i potrebnim kategorijama dozvole."
+              ],
+              [
+                "Iskustvo za zadatak",
+                "U obzir uzimamo vrstu prijevoza, relacije i razinu odgovornosti."
+              ],
+              [
+                "Sezona, projekt ili zamjena",
+                "Angažman se može organizirati za kraći period, povećan obujam ili privremenu zamjenu."
+              ],
+              [
+                "Jasni uvjeti angažmana",
+                "Lokacija, raspored, trajanje i očekivanja definiraju se prije početka rada."
+              ]
+            ]
+          },
+          "en": {
+            "title": "A driver matched to the actual job.",
+            "text": "We do not simply send whoever is available. Vehicle type, licence category, schedule and duration are defined first.",
+            "items": [
+              [
+                "Required licence",
+                "Drivers are matched to the vehicle type and necessary licence category."
+              ],
+              [
+                "Relevant experience",
+                "We consider the type of transport, routes and level of responsibility."
+              ],
+              [
+                "Season, project or cover",
+                "Support can be arranged for a short period, peak demand or temporary replacement."
+              ],
+              [
+                "Clear engagement terms",
+                "Location, schedule, duration and expectations are agreed before work begins."
+              ]
+            ]
+          },
+          "de": {
+            "title": "Ein Fahrer passend zum tatsächlichen Einsatz.",
+            "text": "Wir schicken nicht einfach den nächstverfügbaren Fahrer. Fahrzeug, Führerscheinklasse, Zeitplan und Dauer werden zuerst geklärt.",
+            "items": [
+              [
+                "Benötigte Führerscheinklasse",
+                "Der Fahrer wird nach Fahrzeugtyp und erforderlicher Klasse ausgewählt."
+              ],
+              [
+                "Passende Erfahrung",
+                "Transportart, Strecken und Verantwortungsniveau fließen in die Auswahl ein."
+              ],
+              [
+                "Saison, Projekt oder Vertretung",
+                "Unterstützung ist für kurze Zeiträume, Spitzen oder temporäre Ausfälle möglich."
+              ],
+              [
+                "Klare Einsatzbedingungen",
+                "Ort, Zeitplan, Dauer und Erwartungen werden vor Beginn vereinbart."
+              ]
+            ]
+          },
+          "nl": {
+            "title": "Een chauffeur passend bij het echte werk.",
+            "text": "We sturen niet simpelweg wie beschikbaar is. Eerst bepalen we voertuig, rijbewijscategorie, planning en duur.",
+            "items": [
+              [
+                "Benodigde categorie",
+                "De chauffeur wordt geselecteerd op voertuigtype en vereiste rijbewijscategorie."
+              ],
+              [
+                "Passende ervaring",
+                "Type vervoer, routes en verantwoordelijkheidsniveau tellen mee in de selectie."
+              ],
+              [
+                "Seizoen, project of vervanging",
+                "Inzet kan voor een korte periode, piekbelasting of tijdelijke vervanging worden georganiseerd."
+              ],
+              [
+                "Duidelijke inzetvoorwaarden",
+                "Locatie, planning, duur en verwachtingen worden vooraf afgesproken."
+              ]
+            ]
+          }
         }
       }
     ]
@@ -773,7 +2307,8 @@
         "en": "1–3",
         "de": "1–3",
         "nl": "1–3"
-      }
+      },
+      "published": true
     },
     {
       "name": "Setra",
@@ -789,8 +2324,149 @@
         "en": "Groups",
         "de": "Gruppen",
         "nl": "Groepen"
-      }
+      },
+      "published": true
     }
   ],
-  "pages": []
+  "pages": [],
+  "legal": {
+    "hr": {
+      "privacy": [
+        "DEAL obrađuje samo podatke koji su potrebni za odgovor na upit, organizaciju usluge i ispunjenje zakonskih obveza. Podaci iz kontakt obrasca ne koriste se za automatizirano profiliranje.",
+        "Podatke ne prodajemo trećim stranama. Kada je za izvršenje usluge potreban partner, dijeli se samo opseg podataka nužan za dogovorenu uslugu.",
+        "Za pristup, ispravak ili brisanje svojih podataka možete se javiti na e-mail naveden na ovoj stranici."
+      ],
+      "cookies": [
+        "Stranica koristi nužne kolačiće za osnovnu funkcionalnost i pohranu vašeg izbora privatnosti.",
+        "Analitički kolačići uključuju se samo uz privolu i samo ako je analitika konfigurirana. Svoj izbor možete promijeniti brisanjem postavki preglednika za ovu domenu.",
+        "Vanjske usluge, poput WhatsAppa, otvaraju se tek nakon vaše radnje i podliježu pravilima privatnosti tih pružatelja."
+      ]
+    },
+    "en": {
+      "privacy": [
+        "DEAL processes only the information required to respond to an enquiry, organise a service and meet applicable legal obligations. Contact-form data is not used for automated profiling.",
+        "We do not sell personal data. Where a service partner is required, only the minimum information necessary to deliver the agreed service is shared.",
+        "You can request access, correction or deletion of your data through the e-mail address shown on this website."
+      ],
+      "cookies": [
+        "This website uses essential cookies for core functionality and to remember your privacy choice.",
+        "Analytics cookies are enabled only with consent and only when analytics has been configured. You can reset your choice by clearing this site's browser storage.",
+        "External services such as WhatsApp open only after your action and are subject to the privacy terms of those providers."
+      ]
+    },
+    "de": {
+      "privacy": [
+        "DEAL verarbeitet nur Daten, die zur Beantwortung einer Anfrage, zur Organisation einer Leistung und zur Erfüllung gesetzlicher Pflichten erforderlich sind. Daten aus dem Kontaktformular werden nicht für automatisiertes Profiling verwendet.",
+        "Personenbezogene Daten werden nicht verkauft. Ist für die Leistung ein Partner erforderlich, werden nur die dafür notwendigen Informationen weitergegeben.",
+        "Auskunft, Berichtigung oder Löschung Ihrer Daten können Sie über die auf dieser Website angegebene E-Mail-Adresse anfordern."
+      ],
+      "cookies": [
+        "Diese Website verwendet notwendige Cookies für die Grundfunktionen und zur Speicherung Ihrer Datenschutzauswahl.",
+        "Analyse-Cookies werden nur nach Einwilligung und nur bei konfigurierter Analyse aktiviert. Ihre Auswahl kann durch Löschen der Website-Daten im Browser zurückgesetzt werden.",
+        "Externe Dienste wie WhatsApp werden erst nach Ihrer Aktion geöffnet und unterliegen den Datenschutzbestimmungen des jeweiligen Anbieters."
+      ]
+    },
+    "nl": {
+      "privacy": [
+        "DEAL verwerkt alleen gegevens die nodig zijn om een aanvraag te beantwoorden, een dienst te organiseren en aan wettelijke verplichtingen te voldoen. Gegevens uit het contactformulier worden niet gebruikt voor geautomatiseerde profilering.",
+        "Persoonsgegevens worden niet verkocht. Wanneer een partner nodig is voor de uitvoering van een dienst, delen we alleen de minimaal noodzakelijke informatie.",
+        "U kunt inzage, correctie of verwijdering van uw gegevens aanvragen via het e-mailadres op deze website."
+      ],
+      "cookies": [
+        "Deze website gebruikt noodzakelijke cookies voor de basisfunctionaliteit en om uw privacykeuze te onthouden.",
+        "Analytische cookies worden alleen na toestemming en alleen wanneer analytics is geconfigureerd geactiveerd. U kunt uw keuze resetten door de websitegegevens in uw browser te wissen.",
+        "Externe diensten zoals WhatsApp worden pas na uw actie geopend en vallen onder het privacybeleid van die aanbieders."
+      ]
+    }
+  },
+  "aboutBenefits": {
+    "hr": {
+      "title": "Jedan brend. Četiri specijalizirane cjeline.",
+      "text": "DEAL povezuje prijevoz, putovanja, čišćenje i najam vozača kroz isti standard komunikacije, organizacije i odgovornosti.",
+      "items": [
+        [
+          "Specijalizirani timovi",
+          "Svaka cjelina ima svoj fokus, procese i operativnu odgovornost."
+        ],
+        [
+          "Jedna kontaktna točka",
+          "Klijent ne mora koordinirati više strana — dogovor vodimo jasno od početka do izvedbe."
+        ],
+        [
+          "Jasno definirana usluga",
+          "Prije početka potvrđujemo opseg, termin i sve važne detalje bez nejasnih očekivanja."
+        ],
+        [
+          "Standard koji se može širiti",
+          "Nove usluge i destinacije dodajemo bez gubitka kvalitete i prepoznatljivog DEAL pristupa."
+        ]
+      ]
+    },
+    "en": {
+      "title": "One brand. Four specialised divisions.",
+      "text": "DEAL brings transport, travel, cleaning and driver hire under one standard of communication, organisation and accountability.",
+      "items": [
+        [
+          "Specialised teams",
+          "Each division has its own focus, processes and operational responsibility."
+        ],
+        [
+          "One point of contact",
+          "Clients do not need to coordinate several parties — we manage the arrangement from start to delivery."
+        ],
+        [
+          "Clearly defined service",
+          "Scope, timing and key details are confirmed before the service starts."
+        ],
+        [
+          "A standard built to scale",
+          "New services and destinations can be added without losing quality or the recognisable DEAL approach."
+        ]
+      ]
+    },
+    "de": {
+      "title": "Eine Marke. Vier spezialisierte Bereiche.",
+      "text": "DEAL verbindet Transport, Reisen, Reinigung und Fahrerbereitstellung unter einem gemeinsamen Standard für Kommunikation, Organisation und Verantwortung.",
+      "items": [
+        [
+          "Spezialisierte Teams",
+          "Jeder Bereich hat seinen eigenen Fokus, klare Abläufe und operative Verantwortung."
+        ],
+        [
+          "Ein Ansprechpartner",
+          "Sie müssen nicht mehrere Beteiligte koordinieren — wir führen die Abstimmung von Anfang bis Ausführung."
+        ],
+        [
+          "Klar definierte Leistung",
+          "Umfang, Termin und wichtige Details werden vor Beginn eindeutig bestätigt."
+        ],
+        [
+          "Ein Standard mit Wachstumspotenzial",
+          "Neue Leistungen und Ziele lassen sich ergänzen, ohne Qualität oder den DEAL Anspruch zu verlieren."
+        ]
+      ]
+    },
+    "nl": {
+      "title": "Eén merk. Vier gespecialiseerde diensten.",
+      "text": "DEAL brengt vervoer, reizen, schoonmaak en chauffeurinzet samen onder één standaard voor communicatie, organisatie en verantwoordelijkheid.",
+      "items": [
+        [
+          "Gespecialiseerde teams",
+          "Elke dienst heeft een eigen focus, werkwijze en operationele verantwoordelijkheid."
+        ],
+        [
+          "Eén aanspreekpunt",
+          "U hoeft geen meerdere partijen te coördineren — wij begeleiden de afspraak van begin tot uitvoering."
+        ],
+        [
+          "Duidelijk afgebakende dienst",
+          "Omvang, timing en belangrijke details worden vooraf bevestigd."
+        ],
+        [
+          "Een standaard die kan groeien",
+          "Nieuwe diensten en bestemmingen kunnen worden toegevoegd zonder kwaliteitsverlies of verlies van de DEAL aanpak."
+        ]
+      ]
+    }
+  }
 }

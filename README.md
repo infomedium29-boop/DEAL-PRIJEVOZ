@@ -1,85 +1,93 @@
-# DEAL — Premium Services
+# DEAL — Premium Services + CMS
 
-Production-ready multi-page, multilingual website for DEAL, built for GitHub + Cloudflare Pages.
+Production-ready multilingual DEAL website for GitHub + Cloudflare Pages with a custom owner-facing CMS at `/admin/`.
 
-## What is included
+## Website
 
-- Premium dark/copper visual system based on the client-approved direction
 - 4 languages: HR / EN / DE / NL
-- Separate hubs for Taxi & Transfers, Travel, Clean and DEAL Driver Hire
-- Dynamic detail pages generated from `content/content.json`
-- Fleet, About, Contact, Privacy and Cookies pages
-- SEO: semantic HTML, canonical URLs, hreflang, JSON-LD, sitemap, robots.txt
-- Responsive layout from mobile to large desktop
-- Lightweight animations without animation libraries
-- Cookie consent with analytics blocked until consent
-- Contact forms via Cloudflare Pages Function + optional Web3Forms delivery
-- Custom CMS at `/admin/`
-- Client can add new services, trips, destinations and standalone pages without editing code
-- CMS saves content directly to GitHub and triggers a fresh Cloudflare deployment
-- Optional Cloudflare KV inbox for form enquiries
-- Image upload from CMS to `public/uploads/`
+- Premium responsive design
+- Taxi & Transfers, Travel, Clean and DEAL Driver Hire
+- Dynamic SEO-friendly detail pages
+- Fleet, About, Contact, Privacy and Cookies
+- Sitemap, hreflang, canonical URLs and JSON-LD
+- Cloudflare Pages Functions for CMS and enquiries
 
-## Cloudflare Pages deploy
+## CMS capabilities
 
-Use these settings:
+The owner can log in at `/admin/` and edit without touching code:
+
+- homepage hero and section copy on all 4 languages
+- the four main DEAL service divisions
+- main service descriptions and images
+- page-specific CTA blocks
+- page-specific benefits / selling points
+- Taxi, Travel, Clean and Driver subpages
+- add new trips, transfers, cleaning services and driver pages
+- publish/unpublish items as draft vs public
+- upload and replace images
+- SEO title and meta description per language
+- fleet vehicles, images and capacities
+- About and Contact page content
+- contact-form labels and messages
+- extra standalone pages, including navigation visibility
+- Privacy Policy and Cookies text
+- phone, WhatsApp, email, locations and navigation labels
+- optional enquiry inbox through Cloudflare KV
+
+Each CMS save writes `content/content.json` to GitHub. GitHub history therefore also acts as a versioned backup. Cloudflare detects the commit, runs `npm run build` and publishes the new static SEO-friendly website.
+
+## Cloudflare Pages build settings
 
 - Framework preset: **None**
 - Build command: `npm run build`
 - Build output directory: `dist`
 - Root directory: `/`
 
-Cloudflare automatically deploys the Pages Functions from the `/functions` directory.
+## Enable CMS
 
-## CMS setup
-
-The public website works immediately after deployment. To enable `/admin/`, add these Cloudflare Pages runtime variables/secrets:
+Add the following under Cloudflare Pages → Settings → Environment variables / Secrets for **Production**:
 
 ### Required
 
-- `ADMIN_PASSWORD` — the password the client will use to enter `/admin/`
-- `SESSION_SECRET` — a long random string (recommended 32+ characters)
-- `GITHUB_TOKEN` — a fine-grained GitHub token with **Contents: Read and write** permission only for this repository
-- `GITHUB_OWNER` — GitHub username or organisation
-- `GITHUB_REPO` — repository name
-- `GITHUB_BRANCH` — usually `main`
+- `ADMIN_PASSWORD` — password the owner will use at `/admin/`
+- `SESSION_SECRET` — long random secret, ideally 32+ characters
+- `GITHUB_TOKEN` — fine-grained GitHub token with **Contents: Read and write** for this repository only
+- `GITHUB_OWNER` — `infomedium29-boop`
+- `GITHUB_REPO` — `DEAL-PRIJEVOZ`
+- `GITHUB_BRANCH` — `main`
 
-The GitHub token stays server-side inside Cloudflare Pages Functions and is never exposed in browser JavaScript.
+Never commit `ADMIN_PASSWORD`, `SESSION_SECRET` or `GITHUB_TOKEN` into GitHub source files.
 
-### Contact form
+## GitHub token
 
-Add:
+Create a fine-grained personal access token and restrict it to only the `DEAL-PRIJEVOZ` repository. The token needs repository permission:
 
-- `WEB3FORMS_KEY` — Web3Forms access key for e-mail delivery
+- **Contents: Read and write**
 
-Optional:
+No broader GitHub permissions are required for the CMS publishing flow.
 
-- Create a Cloudflare KV namespace and bind it to the Pages project under the binding name `DEAL_DATA`.
+## Contact form
 
-If `DEAL_DATA` is enabled, form submissions are also visible in the CMS under **Upiti** for up to 180 days. Personal enquiry data is never written into the GitHub repository.
+For e-mail delivery add:
 
-## How content publishing works
+- `WEB3FORMS_KEY` — Web3Forms access key
 
-1. Client logs in at `/admin/`.
-2. Client edits or adds a service, trip, destination, fleet item or translated text.
-3. CMS commits the updated `content/content.json` to GitHub.
-4. Cloudflare detects the commit and runs `npm run build`.
-5. The static SEO-friendly page is regenerated and deployed.
+Optional CMS enquiry inbox:
 
-This means newly added Travel/Taxi/Clean/Driver pages get real static URLs and can be indexed by search engines.
+1. Create a Cloudflare KV namespace.
+2. Bind it to the Pages project using binding name `DEAL_DATA`.
 
-## Images
+When enabled, enquiries can be viewed in CMS under **Upiti** and are stored for up to 180 days. Personal enquiry data is not written to GitHub.
 
-Initial visual assets are in `public/assets/images/`. They are supplied in AVIF and WebP where appropriate. New CMS uploads are stored in `public/uploads/`.
+## Images uploaded from CMS
 
-## Important before final launch
+CMS accepts image uploads, resizes large images in the browser and stores an optimized WebP file in `public/uploads/`. Existing curated site artwork remains AVIF/WebP. If the owner directly uploads an AVIF file within the size limit, it is kept as AVIF.
 
-Replace or confirm:
+## Publishing safety
 
-- e-mail, phone and company/legal details
-- social media links if used
-- exact fleet names/capacities
-- final Privacy Policy / Cookies wording with the client's legal requirements
-- Web3Forms access key
-- analytics ID, if analytics is wanted
+- CMS sessions are HttpOnly, Secure and SameSite=Strict.
+- State-changing CMS calls require same-origin requests.
+- CMS detects if the GitHub content changed in another session and refuses to overwrite a newer version.
+- Draft items are not built, indexed or added to navigation until published.
+- Slugs are validated before publishing.
 
